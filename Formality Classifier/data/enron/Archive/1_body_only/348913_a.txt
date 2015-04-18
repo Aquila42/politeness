@@ -1,0 +1,19 @@
+
+Tracy,
+
+
+After our September close Company 553 (Enron Power and Marketing, Inc)
+ Current SIT Liability Account (30051000)  was off by $1,465,400. In April, $1,500,200 PA 
+Tax was booked to the Franchise Tax Account (59002000). Out of the $1,500,200, only 
+$34,600 was attributed to  Franchise Tax and the remaining $1,465,400 was attrebuted to the Pennsylvania 
+Income tax.  We need to Debit the Current SIT Liability Account (30051000) for $1,465,400 and 
+Credit the Franchise Tax Expense Account (5002000) for $1,465,200. 
+
+
+If you have any questions call me at extension X-54771.
+
+
+
+					                       Thanks,
+
+						      Facundo Caminos
