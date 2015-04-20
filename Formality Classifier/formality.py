@@ -12,6 +12,7 @@ class FormalityClassifier:
     """Classify text based on the formality of the formatting and content"""
 
     def build_informal_set(self):
+        #
         labeled_sets = []
         path = os.path.join(self.curdir, "data/enron/informal")
         print "Informal"
