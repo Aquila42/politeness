@@ -14,33 +14,31 @@ class FormalityClassifier:
     def build_informal_set(self):
         #
         labeled_sets = []
-        path = os.path.join(self.curdir, "data/enron/informal")
-        print "Informal"
+        path = os.path.join(self.curdir, "data/enron/training set/informal")
+        #print "Informal"
         for filename in os.listdir(path):
             if filename == ".DS_Store":
                 continue
             file = path + "/" + filename
-            print file
+            #print file
             msg = ""
             for line in open(file,'r'):
                 msg = msg + " " + line
-            print msg
             labeled_sets.append((self.extract_features(msg), self.informal_label))
         return labeled_sets
 
     def build_formal_set(self):
         labeled_sets = []
-        path = os.path.join(self.curdir, "data/enron/formal")
-        print "Formal"
+        path = os.path.join(self.curdir, "data/enron/training set/formal")
+        #print "Formal"
         for filename in os.listdir(path):
             if filename == ".DS_Store":
                 continue
             file = path + "/" + filename
-            print file
+            #print file
             msg = ""
             for line in open(file,'r'):
                 msg = msg + " " + line
-            print msg
             labeled_sets.append((self.extract_features(msg), self.formal_label))
         return labeled_sets
 
@@ -67,10 +65,8 @@ class FormalityClassifier:
     def build_classifier(self):
         self.labeled_features = self.build_informal_set()
         self.labeled_features.extend(self.build_formal_set())
-        for (example, label) in self.labeled_features:
-            print label
         classifier = learner.train(self.labeled_features)
-        classifier.show_most_informative_features()
+        #classifier.show_most_informative_features()
         return classifier
 
     def get_classifier(self):
@@ -122,6 +118,7 @@ class FormalityClassifier:
         counts["swears"] = 0
         counts["misspelled"] = 0
         counts["subject_capitalized"] = 0
+        counts["negative"] = 0
         wordcount = len(words)
         if wordcount is 0: wordcount = 1
         for word in words:
@@ -131,6 +128,7 @@ class FormalityClassifier:
                 if not english.check(word): counts["misspelled"] += 1.0
             word = word.lower()
             if word in self.swears: counts["swears"] += 1.0
+            if word in self.swears: counts["negative"] += 1.0
             if word in self.abbreviations: counts["abbreviations"] += 1.0
             lastchar = ''
             streak = 1
@@ -153,6 +151,7 @@ class FormalityClassifier:
         features["emoticons"] = (counts["emoticons"] > 0)
         features["abbreviations"] = (counts["abbreviations"] > 0)
         features["slurs"] = (counts["slurs"] > 0)
+        features["negative"] = (counts["negative"] > 0)
         features["misspelled"] = (counts["misspelled"] > 1)
         features["subject_capitalized"] = (counts["subject_capitalized"] > 1)
         features["capitalized"] = (counts["capitalized"] / wordcount > 0.07)
@@ -165,13 +164,59 @@ class FormalityClassifier:
         self.swears = self.file_to_list(os.path.join(self.curdir, "data/informal/swears"))
         self.emoticons = self.file_to_list(os.path.join(self.curdir, "data/informal/emoticons"))
         self.abbreviations = self.file_to_list(os.path.join(self.curdir, "data/informal/abbreviations"))
+        self.negative = self.file_to_list(os.path.join(self.curdir, "data/informal/negative"))
         self.classifier = self.build_classifier()
-        self.test_self() #Check trained classifier
+        #self.test_self() #Check trained classifier
 
 
 def main():
     f = FormalityClassifier()
-    #classifier = f.get_classifier() #trained classifier
+    classifier = f.get_classifier() #trained classifier
+    print classifier.show_most_informative_features()
+    print "Training done\n"
+    path = os.path.join(f.curdir, "data/enron/test answers/")
+    formal = []
+    for line in open(path+"/formal.txt","r"):
+        formal.append(line.strip())
+    informal = []
+    for line in open(path+"/informal.txt","r"):
+        informal.append(line.strip())
+    path = os.path.join(f.curdir, "data/enron/test set")
+        #print "Informal"
+    correct_formal = 0
+    correct_informal = 0
+    false_formal = 0
+    false_informal = 0
+    for filename in os.listdir(path):
+        if filename == ".DS_Store":
+            continue
+        file = path + "/" + filename
+        #print file
+        msg = ""
+        for line in open(file,'r'):
+            msg = msg + " " + line
+        featureset = f.extract_features(msg)
+        predicted_label = classifier.classify(featureset)
+        print filename,predicted_label #naivebayes object
+        if predicted_label == "formal":
+            if filename in formal:
+                correct_formal += 1
+                print "correct\n"
+            else:
+                false_formal +=1
+                print "incorrect\n"
+
+        else:
+            if filename in informal:
+                correct_informal += 1
+                print "correct\n"
+            else:
+                false_informal +=1
+                print "incorrect\n"
+
+    accuracy = (float)(correct_formal+correct_informal)/(len(formal)+len(informal))
+    print accuracy*100,"%"
+    print correct_formal,false_formal,correct_informal,false_informal
 
 if __name__ == "__main__":
     main()
