@@ -119,6 +119,10 @@ class FormalityClassifier:
         counts["misspelled"] = 0
         counts["subject_capitalized"] = 0
         counts["negative"] = 0
+        counts["informal_words"] = 0
+        counts["informal_punctuation"] = 0
+        counts["formal_punctuation"] = 0
+        counts["polite"] = 0
         wordcount = len(words)
         if wordcount is 0: wordcount = 1
         for word in words:
@@ -128,7 +132,11 @@ class FormalityClassifier:
                 if not english.check(word): counts["misspelled"] += 1.0
             word = word.lower()
             if word in self.swears: counts["swears"] += 1.0
-            if word in self.swears: counts["negative"] += 1.0
+            if word in self.negative: counts["negative"] += 1.0
+            if word in self.informal_words: counts["informal_words"] += 1.0
+            if word in self.informal_punctuation: counts["informal_punctuation"] += 1.0
+            if word in self.formal_punctuation: counts["formal_punctuation"] += 1.0
+            if word in self.polite: counts["polite"] += 1.0
             if word in self.abbreviations: counts["abbreviations"] += 1.0
             lastchar = ''
             streak = 1
@@ -151,6 +159,10 @@ class FormalityClassifier:
         features["emoticons"] = (counts["emoticons"] > 0)
         features["abbreviations"] = (counts["abbreviations"] > 0)
         features["slurs"] = (counts["slurs"] > 0)
+        features["informal_words"] = (counts["informal_words"] > 0)
+        features["informal_punctuation"] = (counts["informal_punctuation"] > 0)
+        features["formal_punctuation"] = (counts["formal_punctuation"] > 0)
+        features["polite"] = (counts["polite"] > 0)
         features["negative"] = (counts["negative"] > 0)
         features["misspelled"] = (counts["misspelled"] > 1)
         features["subject_capitalized"] = (counts["subject_capitalized"] > 1)
@@ -165,6 +177,10 @@ class FormalityClassifier:
         self.emoticons = self.file_to_list(os.path.join(self.curdir, "data/informal/emoticons"))
         self.abbreviations = self.file_to_list(os.path.join(self.curdir, "data/informal/abbreviations"))
         self.negative = self.file_to_list(os.path.join(self.curdir, "data/informal/negative"))
+        self.informal_words = self.file_to_list(os.path.join(self.curdir, "data/informal/informal_words"))
+        self.informal_punctuation = self.file_to_list(os.path.join(self.curdir, "data/informal/informal_punctuation"))
+        self.formal_punctuation = self.file_to_list(os.path.join(self.curdir, "data/formal/formal_punctuation"))
+        self.polite = self.file_to_list(os.path.join(self.curdir, "data/formal/polite"))
         self.classifier = self.build_classifier()
         #self.test_self() #Check trained classifier
 

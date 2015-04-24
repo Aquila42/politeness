@@ -1,0 +1,166 @@
+Most Informative Features
+                  swears = True           inform : formal =      9.3 : 1.0
+    informal_punctuation = True           inform : formal =      2.8 : 1.0
+           abbreviations = True           inform : formal =      2.6 : 1.0
+                  polite = True           formal : inform =      1.9 : 1.0
+      formal_punctuation = True           formal : inform =      1.8 : 1.0
+                  polite = False          inform : formal =      1.8 : 1.0
+                   slurs = True           formal : inform =      1.7 : 1.0
+      formal_punctuation = False          inform : formal =      1.7 : 1.0
+    informal_punctuation = False          formal : inform =      1.6 : 1.0
+              misspelled = False          inform : formal =      1.6 : 1.0
+None
+Training done
+
+153.txt formal
+correct
+
+183897.txt formal
+incorrect
+
+186308.txt formal
+incorrect
+
+186523.txt formal
+incorrect
+
+19673.txt informal
+incorrect
+
+208255.txt formal
+incorrect
+
+211039.txt formal
+incorrect
+
+21282.txt formal
+correct
+
+217492.txt formal
+incorrect
+
+236495.txt informal
+correct
+
+237571.txt informal
+correct
+
+238407.txt formal
+incorrect
+
+238457.txt informal
+correct
+
+24154.txt formal
+correct
+
+242250.txt formal
+incorrect
+
+24628.txt formal
+correct
+
+24833.txt formal
+correct
+
+256017.txt formal
+incorrect
+
+260624.txt formal
+incorrect
+
+264999.txt formal
+incorrect
+
+265333.txt informal
+correct
+
+267099.txt formal
+incorrect
+
+273766.txt informal
+correct
+
+275818.txt informal
+correct
+
+288491.txt formal
+incorrect
+
+28879.txt informal
+incorrect
+
+291368.txt informal
+correct
+
+29386.txt formal
+correct
+
+298321.txt formal
+incorrect
+
+298601.txt formal
+incorrect
+
+31902.txt formal
+correct
+
+32710.txt formal
+correct
+
+33235.txt formal
+correct
+
+337445.txt formal
+incorrect
+
+338288.txt formal
+incorrect
+
+3426.txt informal
+incorrect
+
+34653.txt formal
+correct
+
+35380.txt formal
+correct
+
+369197.txt formal
+incorrect
+
+38449.txt formal
+correct
+
+40716.txt formal
+correct
+
+42251.txt formal
+correct
+
+42434.txt formal
+correct
+
+44855.txt formal
+correct
+
+46249.txt formal
+correct
+
+46464.txt informal
+incorrect
+
+49211.txt formal
+correct
+
+53852.txt informal
+incorrect
+
+7701.txt formal
+correct
+
+9311.txt formal
+correct
+
+54.0 %
+20 18 7 5
