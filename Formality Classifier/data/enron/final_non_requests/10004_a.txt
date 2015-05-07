@@ -1,0 +1,6 @@
+FROM SHONNIE DANIEL:
+
+
+Just a reminder that there will be a meeting this morning at 11:15 in 38C2
+regarding the Denver Projects.  See you there.
+

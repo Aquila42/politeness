@@ -1,0 +1,27 @@
+If the PA and ETA are still structured as they were when I last saw them, the
+PA (which will be manually signed) binds the counterparty to the ETA and the
+ETA says that transactions will be governed by a master agreement, if any, or
+GTCs, if no master.  Assuming that is still the case, it seems to me that a
+letter sent to the counterparty, but not signed by it, will likely not
+override the PA and ETA already agreed to.  This seems particularly
+problematic if the reason for trying to override the ETA is to take advantage
+of better credit terms in the GTCs.  It seems to me that we would be better
+off either changing the ETA or supplementing it on-line; that way, we would
+at least have a click agreement, which the counterparty has agreed to be
+bound by.  Perhaps we should discuss further.  Thanks.
+
+>
+
+"Mark Taylor" <mtaylo1@ect.enron.com> 10/21 11:34 AM >>>
+
+
+This issue comes up when the Credit Group is not happy with the credit
+provisions built into the already executed Master Agreement - they want the
+ability to use the GTC with the credit provisions that allow us to call for a
+letter of credit whenever we want to instead of having the online trade
+governed
+by the master (as provided for automatically in the ETA).  What do you think
+about Edmund's solution?
+
+Mark
+

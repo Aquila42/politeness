@@ -1,0 +1,12 @@
+This looks fine to me.  Is this the way our confirmations read for telephone
+trades?  If not, do we need to make this change there also?
+
+
+Dale Neuner on 12/23/99 10:37:58 AM
+To: Mark Taylor/HOU/ECT@ECT
+cc: David Forster/LON/ECT@ECT
+Subject: Change to Index language for Financial Liquids
+
+Please aprove the folowing and I will make the required changes.
+
+

@@ -1,0 +1,20 @@
+mark, please check pricing on these two. Also, did y'all create other tickets
+for these sales on TCO??? Thanks
+
+Joan_Veselack@enron.com on 01/15/2000 12:04:15 PM
+To: Chris Germany/HOU/ECT@ECT, Victor Lamadrid/HOU/ECT@ECT
+cc: Robert Allwein/HOU/ECT@ECT
+Subject: Agency Deals - buying CES supply
+
+I created these deal tickets to account for the term sells as follows:
+
+145328         Allied Signal for 3405/day from TCO pool
+149785         International Paper (Union Camp) for 7158/day from TCO pool
+
+The counterparty names says CES-Columbia-Retail, because there was no
+CES-Allied Signal nor CES-International Paper. Not sure if this matters for
+Enron's system. Also, the pricing and ending term date needs to be
+verified.
+
+Thanks.
+

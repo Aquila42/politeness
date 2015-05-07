@@ -1,0 +1,13 @@
+Tana:
+The following CPs are not authorized to trade US power:
+City of Huntsville:  Not a current trading partner/not FERC approved
+Cytec Industries Inc.:  Not a current trading partner/not FERC approved
+Torch Energy TM, Inc:  Not a current trading partner/not FERC approved;
+restricted by credit
+Trans-World (Aluminum Inc.): Restricted by credit
+******************
+Ameren Services Company:  Sell pursuant to their Service Ag; Buy pursuant to
+on-line GTCs
+Williams Energy:  no change -- authorized to trade.
+
+

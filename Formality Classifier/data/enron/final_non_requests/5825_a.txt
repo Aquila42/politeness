@@ -1,0 +1,12 @@
+Because of a timing issue with Client Services, I have fixed deal 157288,
+separating the Carthage meter to a new ticket.  That ticket is 229758.  The
+price for the Carthage is suppose to be IF HSC - .06.
+
+Stacy:  I will need Feb pathed ASAP so Volume Mgmt can get the volumes
+moved.  Client Services needs to get this invoice out today.
+
+This problem, among others with this exchange deal, is currently we have a
+massive A/R issue and we're trying to get this cleanup before end of month.
+
+If you have any questions, please feel free to call me.
+

@@ -1,0 +1,2 @@
+I am in the process of reviewing our reports and suggesting enhancements.  Today, I suggested a re-sizing of reports so they would look on-line as they do in Excel.  I also suggested that we add a change column to the end of the VAR report for
+

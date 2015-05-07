@@ -1,0 +1,14 @@
+Pursuant to our recent confirmation I have drafted some suggested language
+for the Houston Ship Channel Pooling point:
+
+
+
+Abbreviation: HPL-HSC
+Sort Code: [TBD]
+Description: The transaction is for delivery via the Houston Pipe Line
+Company to the Houston Ship Channel, Zone 10.
+
+
+Elsa and Darren; please approve or offer comments regarding the content of
+description.
+

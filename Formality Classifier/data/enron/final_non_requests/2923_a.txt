@@ -1,0 +1,28 @@
+Return-Path: <vkamins@ect.enron.com>
+Received: from  rly-zb02.mx.aol.com (rly-zb02.mail.aol.com [172.31.41.2]) by
+air-zb01.mail.aol.com (v67_b1.21) with ESMTP; Fri, 28 Jan 2000 17:38:20 -0500
+Received: from  mailman.enron.com (mailman.enron.com [192.152.140.66]) by
+rly-zb02.mx.aol.com (v67_b1.21) with ESMTP; Fri, 28 Jan 2000 17:38:03 -0500
+Received: from dserv1.ect.enron.com (dserv1.ect.enron.com [172.16.1.37]) by
+mailman.enron.com (8.8.8/8.8.8/corp-1.03) with ESMTP id WAA14060 for
+<vkaminski@aol.com>; Fri, 28 Jan 2000 22:37:36 GMT
+Received: from notes.ect.enron.com (notes.ect.enron.com [172.16.4.33]) by
+dserv1.ect.enron.com (8.8.8/8.8.8) with SMTP id QAA22343 for
+<vkaminski@aol.com>; Fri, 28 Jan 2000 16:38:01 -0600 (CST)
+Received: by notes.ect.enron.com(Lotus SMTP MTA v4.6.5  (863.2 5-20-1999))
+id 86256874.007C528F ; Fri, 28 Jan 2000 16:37:55 -0600
+X-Lotus-FromDomain: ECT
+From: "Vince J Kaminski" <vkamins@ect.enron.com>
+To: vkaminski@aol.com
+Message-ID: <86256874.007C5129.00@notes.ect.enron.com>
+Date: Fri, 28 Jan 2000 16:37:55 -0600
+Subject: Dinner for Paula
+Mime-Version: 1.0
+Content-type: text/plain; charset=us-ascii
+Content-Disposition: inline
+Content-Transfer-Encoding: 7bit
+
+
+
+
+

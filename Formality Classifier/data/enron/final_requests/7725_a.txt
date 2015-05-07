@@ -1,0 +1,15 @@
+Faye has completed creating the AVG BLANCO meter on the EPNG/BLANCO zone.
+The physical location server has been bounced and  in order to see it in
+Sitara, you will have to close all open Sitara applications (including the
+Launch Pad) and get back in.  If you have any questions, please call me at
+x35423.
+
+Bob, the new portfolios that your group will need to monitor to track these
+new BLANCO and AVG BLANCO transactions are listed below.  You can open these
+portfolios in Deal Manager or Deal Ticker.
+
+Deal Confirm - EPNG/BLANCO
+Deal Confirm - EPNG/AVGBLANCO
+
+Imelda Frayre
+

@@ -1,0 +1,10 @@
+I have flow without a nom each day at  Meter 2186
+
+1st = 1375
+2nd = 28
+3rd = 2532
+4th = 5952
+
+I assume that this is entex meter.  Is this volume captured at Meter 2000?  I
+will need a nom to support this flow.  Please advise.  Thank you.
+

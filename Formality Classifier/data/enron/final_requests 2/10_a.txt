@@ -1,0 +1,4 @@
+Our new books have been set up in ERMS and everyone should have access to all books now.  I think we should probably book a few test deals in tagg and sitara to make sure that we can calculate them...especially sitara.  The physical hedge books are named PB-NDG-region#.
+
+The book and portfolio codes are saved in our original book request forms in Netco\controls\Book Request From region final.xls
+

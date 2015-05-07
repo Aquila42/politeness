@@ -1,0 +1,18 @@
+I'm not too worried about this - the letter which Mark Taylor is preparing
+will state that whatever method we choose to use will supercede EOL - so if
+everything is set to GTC and the GTC flags are set to "read", that should be
+enough - unless someone is worried about the confirms.
+
+Dave
+
+To: Mark Taylor/HOU/ECT@ECT, David Forster, Marcello Romano/LON/ECT@ECT
+cc: Karen Lambert/HOU/ECT@ECT, Frank Davis
+Subject: Desk to Desk Masters
+
+Karen Lambert has indicated that we have Master Agreements between HPLC and
+ENA (physical) and between ENA and ECC (physical &financial).   We will need
+to populate the master agreements in EOL.  I need some direction relative to
+this to assure we sent it up correctly.  In addition, we will assign the
+short agreement you discussed a global id and populate this number in EOL for
+all desk to desk trades that are intra company.
+

@@ -1,0 +1,9 @@
+I think I have cleaned this one up.  I removed the PPA portion (2001-2003).
+I haven't played with the debt too much; I just reduced it to give us roughly
+the same coverages as we had in the previous model.  Please review and let me
+know what I missed -- I'm sure there are a lot of things.  I have to take off
+around 3:00 this afternoon to turn in the keys from my old apartment, so
+e-mail your changes, and I'll get on it first thing tomorrow morning.
+
+Jon
+

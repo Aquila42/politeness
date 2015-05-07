@@ -1,0 +1,12 @@
+I have found a mistake in AS #7, on problem 4, parts f and g.  The MR
+function is wrong which messes up the answers for the rest of the problem.
+I apologize for missing this.  I sincerely hope, however, that you caught
+this mistake in doing the problems.  At this point, such a mistake should
+be quite noticeable.  I have included the correction in an attached word
+file. Sorry this is so late.
+
+J. Lamar Pierce
+Ph.D Student
+Haas School of Business
+UC Berkeley
+

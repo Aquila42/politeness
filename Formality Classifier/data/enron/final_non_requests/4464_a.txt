@@ -1,0 +1,56 @@
+Attached is the latest draft of the Lugar bill with changes incorporated
+from staff
+discussions with the Banking Committee and other interested parties.  The
+following list of changes is not reflected in the attached draft - and thus
+you
+will need to mark up the attached copy as follows to reflect changes made to
+reflect your agreement in principle (or to correct mistakes/oversights from
+the last iteration). Also included is the agreed upon report language.
+
+Note: language regarding market makers willbe included at the bottom of the
+first page of the agreement in principle in report language as a clarifier
+to the Treasury Amendment unless we hear otherwise.
+
+CHANGES:
+throughout the bill, disregard bracketed editorial comments unless otherwise
+noted here
+page 2 table of contents insert "sec. 22 Rule of Construction" and renumber
+the
+following sections
+
+page 2 line 13 change "equity futures" to "futures on securities"
+
+page 16, lines 9 -10 and 19-10 should read "The agreement, contract or
+transaction....
+
+page 20 line 10 after "parties" insert "and not from interaction of multiple
+orders within a predetermined, non-discretionary automated trade matching
+algorithm;"  and delete "or"
+
+page 20 line 24 change the period ot a semi-colon and add "or (iii)
+facilities
+on which bids and offers, and acceptances of bids and offers effected on the
+facility, are not binding."
+
+page 24 line 12 add "bona fide" before "principal"
+
+page 24 line 17 after "participants" add "as defined in sections 1a(10)(A)
+and
+(C)"
+
+page 25 line 11 change add an "s" at the end of "paragraph" and after "(1)"
+insert "and (2)"
+
+page 37 line 18 after "security" delete bracketed material and insert "on a
+national securities exchange."
+
+page 37 line 22 delete "only"
+
+page 40 line 10 delete "(2)(B) or"
+
+page 65 line 19 insert bracketed material
+
+pafe 78 line 6-9 strike bracketed material and "it" and insert "such
+account,
+agreement, or transaction"
+

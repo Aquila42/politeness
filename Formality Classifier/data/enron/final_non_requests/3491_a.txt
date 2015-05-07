@@ -1,0 +1,7 @@
+Attached for review are both clean and redlined copies of the respective
+auction rules and the auction website text for the EOL Generation Capacity
+Products, following cleanup efforts to arrive at the final versions.  If
+these are acceptable, we should proceed with the programming and
+implementation.  Please respond with any further comments, or an 'okay',  at
+your earlier opportunity. Thanks.
+

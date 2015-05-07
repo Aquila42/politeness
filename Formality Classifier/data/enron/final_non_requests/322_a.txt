@@ -1,0 +1,9 @@
+Darrin,
+
+I am getting an error message when I try to login to NW Passage. It says:
+"Unable to contact the Citrix Server Browser. Either your network is not functional, or you need to
+configure an address under Server Location, or the configured address is incorrect."
+
+I have had this problem before, and it was corrected by running a . I was talked through this by someone from your tech support.
+Unfortunately, I upgraded my computer last night and lost this setup.
+

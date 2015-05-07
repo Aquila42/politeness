@@ -1,0 +1,44 @@
+Justin
+
+Our understanding is that FX traded from the US is effectively unregulated.
+If we use MG London Inc, there would be the possibility that the CFTC would
+have some type of oversight on the unregulated business. Only the posting of
+the IMM EFPs needs to be done through the FCM.
+
+There are other practical issues here in that that MG London Inc currently
+lacks the infrastructure needed to do the outright FX business as it has no
+bank FX lines and no bank accounts for all the currencies. There are other
+issues where the main settlements/back office expertise is here in London.
+These are obviously not insurmountable but we need to do a lot of work to get
+either MG London Inc or, for example, MG Newco Inc ready for the business. Is
+there an angle for using Enron North America, for example, as I understand
+they already have existing FX lines and settlements or would that be a
+non-starter? There are currently some UK and EU customers on Wolff's books
+who would need to be routed via an SFA regulated arranger. Will we be able to
+use EEFT for this?
+
+Rgds
+
+Jon
+
+Justin Boyd@ECT
+09/08/2000 18:54
+To: Jon Barrett/MGLTD_London/MGLTD@MGLTD
+cc: Trena McFarland/LON/ECT@ECT, Mark Taylor/HOU/ECT@ECT, Alan
+Aronowitz/HOU/ECT@ECT, Marcus Nettelton/NA/Enron@ENRON
+
+Subject: Re: FX Transactions
+
+Jon,
+
+I had a glance over the written paper from Sullivan & Cromwell as to FX
+Transactions, and it seems to me that there would be fewer US regulatory
+issues (should there be any), if we were to use MG Brokers Inc, the FCM
+entity.  Are there any other reasons why we would not want to use this entity?
+
+[Mark/Alan/Marcus - I have separately sent you by email the Sullivan &
+Cromwell paper]
+
+Thanks.
+Justin
+

@@ -1,0 +1,38 @@
+Susan,
+
+Deal # 360695 has been created and entered in Sitara.
+
+Bob
+
+
+
+SUSAN
+
+SMITH
+08/10/2000 12:23 PM
+
+To: Robert Cotten/HOU/ECT@ECT
+cc: Donald P Reinhardt/HOU/ECT@ECT, Melissa Graves/HOU/ECT@ECT, Jeffrey A
+Austin/HOU/ECT@ECT, Vance L Taylor/HOU/ECT@ECT, Lisa Hesse/HOU/ECT@ECT
+Subject: Tri-C-Governer Bill Daniels #1
+
+Bob:
+
+Please create and enter a ticket into Sitara based on the following:
+
+Counterparty   Meter   Period-Volumes  Price
+Cokinos Natural Gas Co. 9842   8-1/8-30 -   First 5000/day is 96%, over 5000
+day is 97%
+7328 MMbtu/d
+
+
+This is a Producer Services deal and should be tracked in the IM wellhead
+portfolio, attached to the gathering contract.
+
+
+
+Thank You,
+
+Susan
+x 33321
+

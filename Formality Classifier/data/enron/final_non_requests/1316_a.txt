@@ -1,0 +1,30 @@
+Return-Path: <Vince.J.Kaminski@enron.com>
+Received: from  rly-yb03.mx.aol.com (rly-yb03.mail.aol.com [172.18.146.3]) by
+air-yb05.mail.aol.com (v74.17) with ESMTP; Fri, 16 Jun 2000 11:20:59 -0400
+Received: from  postmaster.enron.com (outbound5.enron.com [192.152.140.9]) by
+rly-yb03.mx.aol.com (v74.17) with ESMTP; Fri, 16 Jun 2000 11:20:27 -0400
+Received: from mailman.enron.com (mailman.enron.com [192.168.189.66]) by
+postmaster.enron.com (8.8.8/8.8.8/postmaster-1.00) with ESMTP id KAA29860 for
+<vkaminski@aol.com>; Fri, 16 Jun 2000 10:20:27 -0500 (CDT)
+Received: from dserv1.ect.enron.com (dserv1.ect.enron.com [172.16.1.37]) by
+mailman.enron.com (8.10.1/8.10.1/corp-1.05) with ESMTP id e5GFHf521633 for
+<vkaminski@aol.com>; Fri, 16 Jun 2000 10:17:41 -0500 (CDT)
+Received: from notes.ect.enron.com (ecthou_gt2.corp.enron.com [172.16.4.33])
+by dserv1.ect.enron.com (8.8.8/8.8.8) with SMTP id KAA11437 for
+<vkaminski@aol.com>; Fri, 16 Jun 2000 10:18:01 -0500 (CDT)
+Received: by notes.ect.enron.com(Lotus SMTP MTA v4.6.5  (863.2 5-20-1999))
+id 86256900.00540A81 ; Fri, 16 Jun 2000 10:17:57 -0500
+X-Lotus-FromDomain: ECT
+From: "Vince J Kaminski" <Vince.J.Kaminski@enron.com>
+To: vkaminski@aol.com
+Message-ID: <86256900.00540989.00@notes.ect.enron.com>
+Date: Fri, 16 Jun 2000 10:17:59 -0500
+Subject: Australian Energy Risk 2000
+Mime-Version: 1.0
+Content-type: text/plain; charset=us-ascii
+Content-Disposition: inline
+X-Mailer: Unknown
+
+
+
+

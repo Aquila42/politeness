@@ -1,0 +1,33 @@
+Further to recent correspondence on this subject:
+"Killing" EnronOnline deals has always been against policy, for a number of
+reasons, including the need to demonstrate to customers that this is a
+binding way to do deals and also to provide an auditable process to auditors
+who may be sceptical of an online transaction system - i.e. we need to show
+that clicking on the screen  results in a deal which results in an invoice
+every time.
+In the same way that it is rare to conclude a transaction by telephone with a
+trader and then attempt to "back out", we must ensure it is a rare event on
+EnronOnline. Deals can only be terminated under special circumstances, which
+must be approved on a case-by-case basis by the legal department in
+consultation with Credit and EnronOnline commercial staff and covered with a
+special contract entered into with the Counterparty.
+In all other circumstances, "undoing" a deal is at the discretion of the
+trader and is most easily accomplished by an OTC transaction which reverses
+the volume, price and payment impact, thus addressing most of the concerns
+raised below.
+Dave
+
+Brent A Price
+03/08/2000 09:02 AM
+To: Sheri Thomas/HOU/ECT@ECT
+cc: Kathryn Cordes/HOU/ECT@ECT, Mark Taylor/HOU/ECT@ECT, Susan
+Harrison/HOU/ECT@ECT
+Subject: Feedback on EOL killed deals process
+
+I find it difficult to believe we would even be considering the use of OTC
+trades to effectively "kill" another deal.  The points Kathryn raise below
+are good ones.  How often do deals need to be terminated?  Unless that number
+is substantial (and I would hope it is not), why the opposition to executing
+a termination agreement with the counterparty and resolving the problem in
+the cleanest manner?
+

@@ -1,0 +1,13 @@
+....This just in....
+
+Here are our updated imbalances per contract & total:
+
+Historical Current Mth Cumul.
+201K: (12.807)  (8.181)  (20.988)
+202K: (13.951)  7.879  (6.072)
+203K: (6.152)  (267)  (6.419)
+204K: 27.392  (6.306)  21.088
+
+Total: (5.516)  (6.875)  (12.391)
+Due Oasis
+

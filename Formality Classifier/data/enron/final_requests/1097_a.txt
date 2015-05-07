@@ -1,0 +1,66 @@
+A brief follow-up note about Mitsubishi and the terms of our contract w/
+First Gas --  We should all be mindful of the confidentiality provisions in
+this contract (see Article 15).
+Regards,
+Janice
+EB3861
+Assistant General Counsel, Enron North America Corp.
+713-853-1794 (Fax:  713-646-4842)
+
+Britt Davis@ENRON
+08/10/2000 04:28 PM
+
+To: Matthias Lee/SIN/ECT@ECT
+cc: Janice R Moore/HOU/ECT@ECT, Alan Aronowitz/HOU/ECT@ECT, Harry M
+Collins/HOU/ECT@ECT, Richard B Sanders/HOU/ECT@ECT, Michael A
+Robison/HOU/ECT@ECT, Deborah Shahmoradi/NA/Enron@Enron, Brenda
+McAfee/Corp/Enron@ENRON
+Subject: Re: D3605/In re M/V PACIFIC VIRGO
+
+PRIVILEGED AND CONFIDENTIAL: ATTORNEY-CLIENT COMMUNICATION, ATTORNEY WORK
+PRODUCT
+Matt,
+1. I'm on the same page as Janice with regard to testing, although I'd like
+to spin out my thoughts a bit.  In my view, at the end of the day, it is
+virtually inevitable that both D3605 with ashing and D3605 without ashing are
+going to be used on the critical loadport sample (and, therefore, for the
+rest of the samples as well ) at the joint analysis.
+Mitsubishi's strategy at the joint analysis will be to get the remaining
+loadport sample to come up off-spec on retesting, for obvious reasons.
+Prior to the joint analysis, Mitsubishi will be aware that (a) D3605 without
+ashing is in the FGH contract and that (b) ECT believes D3605 without ashing
+may have a reproducibility issue with this type of product.  Given this, if
+ECT proposes to use only D3605 with ashing (our safest bet) on the loadport
+sample at the joint analysis, Mitsubishi will smell a rat and insist on D3605
+without ashing.   The same would apply, I think, if even if ECT proposed to
+use only D3605 without ashing as its sole test at the joint analysis.  The
+more different kinds of tests Mitsubishi can forcefully argue should be run,
+the more likely it is that one of them will show the loadport sample is
+off-spec.  Mitsubishi's goal will be supported by the general practice of the
+chemists involved, who will want to rerun every test previously run in order
+to get to the bottom of this.
+My sense is that it would be very difficult under the circumstances for ECT
+to credibly take the position that only one test or the other (D3605 with
+ashing or D3605 without ashing) should be run; in fact, in light of what I
+believe is virtually inevitable (Mitsubishi insisting on whatever test we
+don't propose), and in order to keep from appearing to be overly concerned
+about the reproducibility problem, my feeling is that we may want to go ahead
+and propose both tests to Mitsubishi (assuming that it is expected that we
+would initially propose the proper tests to Mitsubishi, and not the other way
+around).
+2. Can you let us know exactly who will be doing the hands-on testing of this
+product in Singapore?  I know that we nominated SGS Singapore, but does this
+necessarily mean that someone from SGS will be doing the actual work, as
+opposed to us just using SGS's lab?  As Janice pointed out, we need to make
+absolutely sure that (a) the lab is first-class and (b) whoever performs the
+test this time is very experienced with D3605 with and without ashing.  Also,
+it is my thought that we do not want anyone from SGS there who is aware of
+the pre-sale analysis that SGS did of the Elang Crude cargo.  This latter
+point, especially, needs to be handled with great care; if there is a need to
+communicate with SGS about any of this, I would suggest that you first confer
+with David or Neal.
+Many thanks for your help.
+Britt
+Again, many thanks for your help.
+
+

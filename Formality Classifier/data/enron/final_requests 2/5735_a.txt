@@ -1,0 +1,294 @@
+Louise
+I've spoken with Bryan - your understanding is correct - there will initially
+be circa 250 products total spread across the product types (which are
+defined by the country of incorporation of the reference credit).
+He is hoping to grow this quickly.
+M
+Louise Kitchen
+18/01/2000 16:57
+
+To: Louise Kitchen/LON/ECT@ECT
+cc: Paul Simons/LON/ECT@ECT, Bryan Seyfried/LON/ECT@ECT, John
+Sherriff/LON/ECT@ECT, Jeffrey T Hodge/HOU/ECT@ECT, Julia Murray/HOU/ECT@ECT,
+Mark Taylor/HOU/ECT@ECT, Michael R Brown/LON/ECT@ECT, Edmund
+Cooper/LON/ECT@ECT, Justin Boyd/LON/ECT@ECT, Rod Sayers/LON/ECT@ECT, Janine
+Juggins/LON/ECT@ECT, Steve W Young/LON/ECT@ECT, David Weekes/LON/ECT@ECT,
+David Forster/LON/ECT@ECT, Elena Kapralova/LON/ECT@ECT, Mark
+Dilworth/LON/ECT@ECT
+
+Subject: Re: Credit Trading OnLine - Results of Legal Due Diligence and Risk
+
+Memo
+
+Bryan
+
+Mark told me that in the meeting (legal trading weekly conference call, Paul
+spoke of a different 250 products per country?  Is this right?  This has some
+serious implications.  Could you let us know as this hasn't come up before I
+had assumed your 250 products were the same whatever the country.
+
+Regards
+
+Louise
+
+Louise Kitchen
+01/17/2000 07:07 PM
+To: Paul Simons/LON/ECT@ECT, Bryan Seyfried/LON/ECT@ECT
+cc: John Sherriff/LON/ECT@ECT, Bryan Seyfried/LON/ECT@ECT, Jeffrey T
+Hodge/HOU/ECT@ECT, Julia Murray/HOU/ECT@ECT, Mark Taylor/HOU/ECT@ECT, Michael
+R Brown/LON/ECT@ECT, Edmund Cooper/LON/ECT@ECT, Justin Boyd/LON/ECT@ECT, Rod
+Sayers/LON/ECT@ECT, Janine Juggins/LON/ECT@ECT, Steve W Young/LON/ECT@ECT,
+David Weekes/LON/ECT@ECT, David Forster/LON/ECT@ECT, Elena
+Kapralova/LON/ECT@ECT, Mark Dilworth/LON/ECT@ECT
+
+Subject: Re: Credit Trading OnLine - Results of Legal Due Diligence and Risk
+
+Memo
+
+Thanks very much for your memo Paul it is very helpful.  I attach below for
+completeness the To Do list put together by Elena in order to put Credit on
+EnronOnline.
+There are two remaining issues which require further thought:-
+
+1.  How do we want to display Credit on a long term basis on EnronOnline.
+For the short term, we can put credit out there but the number of updates
+will be restricted.  Using Jay's best guess on a slow network connection the
+initialization process will take upto 4 minutes and on a normal connection
+250 updates every 30 seconds would prevent people from trading.   So we do
+have some scaling issues? Our model doesn't really function for simultaneouse
+changing of hundreds of products so really we need to actually get a much
+better specific on how many updates you envisage.   Do you really envisage
+that many updates?  Also we haven't yet experienced fast updates which we
+will do when FX joins the system.
+
+2.  We have approximately 4000 guest id and passwords?  Can these see credit
+pricing from a due diligence perspective.
+
+Elena will be leaving the EnronOnline group at the end of this week and Mark
+Dilworth will be our main point of contact in Dave's absence.  Any questions
+please do not hesitate to call me (713 853 3488).
+
+Louise
+Outstanding Credit Derivatives Issues	Action	Status	Resolved by
+1. Redraft Credit Derivatives GTCs 	Decide how many GTCs are needed ) 1, 2 or
+6 ) and prepare the draft(s) accordingly with following issues in
+consideration:
+Change &Effective Date8 language to refer to the dates on the website.
+Cofidentiality issue ) legal advice is to leave it out. Bryan Seyfried to
+make decision on commercial basis, whether not to include it at all, or
+include the softer clause, for ex. that counterparties cannot use Enron name
+when disclosing transactions, details.
+Include &bad faith8 provision to prevent sleeving.
+Decide what entities should enter transactions on Enron side ) ECTRI for
+Europe and ENA for North America (?)
+Get Tax sign-off		Paul Simons/Edmund Cooper/Slaughter&May
+2. Translation of GTCs	Decide whether translations are needed and, if so, prepare
+them:
+Nordic GTC into Norwegian
+Swiss GTC into German		Paul Simons/Edmund Cooper/Slaughter&May
+3.  Withholding Tax Issue	Do further research and take a view regarding US
+Withholding Tax issue, i.e. that US entity can only transact with another US
+entity.		Jannine Juggins/ Paul Simons
+Legal Validation of Long Descriptions	Make sure that Long Descriptions are aligned with
+GTCs.		Edmund Cooper
+4. Legal Review of Paper Confirmations	Modify language in the paper confirmations according
+to GTCs and Long Descriptions.		Edmund Cooper
+5. Translation of Paper Confirmations	If necessary, prepare the following translations:
+Nordic Conf. - into Norwegian
+Swiss Conf - into German		Paul Simons/Edmund Cooper
+6. Draft Consent Paragraph to be included in the Marketing Letter 	 Draft a
+consent paragraph to be added to the Marketing Letter that goes to Ref.
+Entities companies
+Get PR approval		Paul Simons/Edmund Cooper
+7. Confidentiality Lists	Identify counterparties in the Confidentiality Lists (all
+Enron entities) that will be used as underlying Reference Entities and get
+their written consent.		Paul Simons/Edmund Cooper/Mark Taylor
+8. Confidentiality Procedures	Prepare Procedures and educate Enron traders that
+confidential information about Ref. Entities is not misused.		Paul Simons
+9. Prepare Counterparty List	Prepare the Counterparty List and forward it to Legal
+(for capacity check) and Credit for approval.
+Note: List must contain exact entity name that will be entering Cr. Deriv.
+transactions		Bryan Seyfried
+11. Capacity Check on Counterparties	Check counterparties, constitutional documents to make
+sure that they have legal power and authority to trade Cr. Deriv.
+Note: Finish counterparties must be &professional investors8.		Paul Simons/Edmund
+Cooper/Mark Taylor
+12. Get Counterparties List Approvals	Bryan to chase Credit/Legal/Traders to get there
+sign-off.		Bryan Seyfried
+13. Complete Reference Entities List	 Add information on country of incorporation
+and abbreviation (up to 12 characters) to the existing Ref. Entities List.
+Get Traders, Legal, Credit and Tax (?) approval.		Bryan Seyfried/Raj Sharma
+14. Attach Cr. Deriv. GTCs to all Cr. Deriv. transactions confirmations	Make sure that Back
+Office procedures are amended accordingly.		Bryan Seyfried/Barry Pierce
+15. Investigate whether companies from Canada and Germany can be used as Ref.
+Entities	For time-being Canadian and German companies won,t be used neither as Ref.
+Entities nor they will be able to enter trades as counterparties. However,
+being Ref. Entities ) needs further investigation.		Paul Simons/Edmund Cooper/Mark Taylor
+16. Legal Budget	Estimate approx. legal fees budget for Cr. Deriv.		Paul Simons
+17. Short Descriptions	Change Short Descriptions:
+Product Type should read: &US Credit Dflt8, i.e. not &US Cr Dflt Swap8
+Upload Underlying Credits (Ref. Entities) abbreviation according to Raj,s
+List.		Elena Kapralova/Mark Dilworth
+18. Online Test	Set up Cr. Derivatives in the Test environment and make test
+trades.		Bryan Seyfried and Cr. Deriv. traders
+19. Set up New Database	If decision on placing Cr. Derivatives as a separate page is
+final, start working on coding a separate Cr. Derivatives Database.		Mark Dilworth to
+co-ordinate with IT
+20. Sigma Factors	Set-up Sigma factors on the Product Type level.		Mark Dilworth to
+co-ordinate with Credit
+21. Risk Calculation	Set-up methodology for risk calculation on underlying Ref. Entities.		Mark
+Dilworth to co-ordinate with RAC
+
+
+Legal Deliverables ) Credit Derivatives
+
+
+Deliverable 	Jurisdiction	Delivery Date 	Status	Delivered by
+1. GTCs 	All 			Slaughter&May
+2. Long Product Descriptions Validation	All			Edmund Cooper
+3. Translation of Norwegian and Swiss GTCs into German and Norwegian if
+necessary	Norway, Switzerland			Slaughter&May
+4. Paper Confirmations	All			Edmund Cooper
+5. Translation of Norwegian and Swiss confirmations into German and Norwegian
+if necessary	Norway, Switzerland			Slaughter&May
+6. Consent Paragraph in the Marketing Letter	All			Paul Simons/ Edmund Cooper
+7. Confidentiality Procedures	N/A			Paul Simons
+8. Further info on Canadian and German companies as Ref. Entities	Canada, Germany			Paul Simons/
+Edmund Cooper
+
+
+
+Credit Derivatives ) Resolved Issues
+
+Resolved Credit Derivatives Issues	Action	Status	Resolved by
+1.
+2.
+3.
+
+Paul Simons
+01/17/2000 02:01 PM
+To: John Sherriff/LON/ECT@ECT, Louise Kitchen/LON/ECT@ECT
+cc: Bryan Seyfried/LON/ECT@ECT, Jeffrey T Hodge/HOU/ECT@ECT, Julia
+Murray/HOU/ECT@ECT, Mark Taylor/HOU/ECT@ECT, Michael R Brown/LON/ECT@ECT,
+Jeffrey T Hodge/HOU/ECT@ECT, Edmund Cooper/LON/ECT@ECT, Justin
+Boyd/LON/ECT@ECT, Rod Sayers/LON/ECT@ECT, Janine Juggins/LON/ECT@ECT, Mark
+Frevert/LON/ECT@ECT, Rick Buy/HOU/ECT@ECT, Steve W Young/LON/ECT@ECT, Shirley
+A Hudler/HOU/ECT@ECT, David Weekes/LON/ECT@ECT, David Forster/LON/ECT@ECT,
+Elena Kapralova/LON/ECT@ECT
+
+Subject: Credit Trading OnLine - Results of Legal Due Diligence and Risk Memo
+
+NOTE - GIVEN THE PROPOSED LAUNCH DATE OF 24 JANUARY 2000 FOR THIS PRODUCT,
+THIS NOTE IS INTENDED TO SERVE BOTH AS A SUMMARY OF THE RESULTS OF OUR LEGAL
+DUE DILIGENCE AND AS A RISK MEMO
+As you know, we have carried out legal due diligence in the eight countries
+where it was intended the credit product  would initially be traded via
+EnronOnLine - namely, the UK, the US, Canada, Finland, Germany, Norway,
+Sweden and Switzerland.  Under the terms of the credit product, on the
+occurrence of  a bankruptcy with respect to a specified third party (the
+Reference Entity) the Seller of the product (which could be either Enron or
+its online counterparty) will pay a fixed, pre-agreed cash sum in an agreed
+currency to the Buyer. (It should be borne in mind that this product differs
+in a number of ways from the more conventional credit derivatives traded in
+the international markets. This means that a change in the nature or terms of
+our product or the introduction of alternative credit products will likely
+change the analysis below.)
+Set out below is an overview of where we have come out on the more
+significant legal issues.  I am also attaching a two page "Executive Summary
+of Legal Advice" prepared by outside counsel which highlights the significant
+legal issues/risks in each country and which should be read in conjunction
+with this note mail. As you will see, the Executive Summary does not focus on
+issues we raised which are "all clear" from a legal perspective, so as to
+keep the summary to a sensible length  (but there was plenty of good news
+too!).  Where a legal issue has been identified, I have either set out below
+what action is to be taken, or not addressed it further on the basis that, on
+the advice of foreign counsel, the risk is not very substantial or unlikely
+to materialise. Therefore, where no comment is made below in relation to a
+risk highlighted in the attached summary, please assume that the legal risk
+is one which, in our view, it is reasonable to take.
+A.  Countries in which the credit product can be traded in January 2000
+Finland, Norway, Sweden, Switzerland, UK, US
+B.  Countries in which launch of the product via EnronOnline will need to be
+delayed
+Canada, Germany (reasons set out below)
+C.  General Issues (applicable in all countries)
+The credit product is fundamentally different from the usual energy and
+related products we trade and so gives rise to new or increased legal risks
+of a general nature:
+(i)  Capacity - We will not be able to assume generally that our
+counterparties will have the legal power and authority necessary to trade the
+product and so will need to check each counterparty's constitutional
+documents before allowing them to trade the product online.  This applies to
+almost all entities (eg corporates, municipalities, insurance companies) in
+all countries.  Some entities may lack the power to trade under the general
+law (in which case we will not be able to deal with them at all) or under
+their constitutional documents (in which case they will need to amend their
+constitutional documents if they wish to trade).
+The check need only be made once at the beginning of the credit trading
+relationship and so can be added to our procedures.  It is not a particularly
+onerous job and will increase the cost of this business only incrementally.
+(ii)  Confidentiality - We will need to put in place procedures to ensure
+that we are not misusing confidential information about our business
+counterparties on whom we are offering credit protection.  Misuse can occur
+both in pricing the product and trading it.  The procedures will not include
+formal Chinese Walls separating the credit traders from our other traders or
+the credit department (a point we have managed to agree with both UK and US
+counsel following very detailed discussions).  The procedures will include
+(a) the use of a Restricted List in both the US and Europe (similar to the
+procedure currently used in Houston); and (b) practical steps to ensure that
+confidential information derived from other areas of our business and which
+we are not entitled to use (eg because it is the subject of a confidentiality
+agreement) is not imparted to the credit traders.  In addition, where Enron
+has an especially close relationship with a prospective reference entity, or
+otherwise has confidential information relating to such an entity, we will
+need its written consent before offering protection on that entity.  Without
+such consent, there will be an unjustifiably high risk of being sued by that
+entity for breach of confidence.
+D.  Country Specific Issues
+(i)  Canada - There is a substantial risk that the product will constitute
+insurance business, constituting an offence and rendering contracts in the
+product unenforceable against our counterparties.  We should try to resolve
+this issue with the Canadian authorities before launching the product in
+Canada.  Timeframe for clearance is highly uncertain since it is not clear
+which Canadian authority would take jurisdiction of the matter.
+(ii)  Germany -  Again the issue is insurance.  The risk is higher than in
+Canada and so Germany should be excluded initially.
+(iii)  Norway - There is a material risk that the credit product could be
+regarded as gaming in Norway, in which case trades would be void and
+unenforceable.  The normal way to mitigate this risk in Norway is by using a
+"substantial professional effort" to satisfy ourselves that a trade is being
+entered into for valid commercial purposes (normally hedging) by our
+counterparty. Clearly, it will not be possible to take such steps on a trade
+by trade basis in the context of EnronOnline.  At a minimum, we should
+therefore ensure at the outset of the online trading relationship in this
+product with each Norwegian counterparty that there is a commercial logic
+behind its trading this product type.
+(iv)  Switzerland -  If the credit product is the main purpose of our trading
+relationship with a counterparty, we should check with the Swiss supervisory
+authority whether the product constitutes insurance (the position being
+unclear).  If a trade is insurance, it can be terminated by the counterparty
+(which is obviously of greater concern if Enron is the Buyer) and an offence
+will be committed since Enron is not authorised as a Swiss insurer.  However,
+I understand that the initial group of counterparties will be existing
+business relationships, in which case we can parallel path this issue.
+(v)  US (New York Law)
+(a) CFTC regulation - by structuring the product either as a swap or an
+option (and meeting certain other conditions) we can rely on exemptions under
+the US Commodities Exchange Act.
+(b)  US securities laws - there is a small chance that the credit product
+constitutes a "security" under US securities laws (please see attached
+Executive Summary).  However, SEC regulations allow the public offering of
+securities to "accredited investors" which will allow us to deal with
+investors having at least US$5 million in assets.  Since most of our
+counterparties will be fairly large, sophisticated players, this test should
+not impede the business.
+(c)  Insider trading - US counsel have advised that the risk of insider
+trading occurring as a result of the product being characterised as security
+(see (b) above) is relatively remote.
+------------------------------------------------------------------------------
+--------------------
+Please feel free to call me on x36566 if you would like to discuss this
+project further.
+Best regards
+
+

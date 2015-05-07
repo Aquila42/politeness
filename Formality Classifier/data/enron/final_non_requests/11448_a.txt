@@ -1,0 +1,14 @@
+Attached is the latest correlation matrix being used in VaR (08/31/00).  As
+expected, correlations between NYMEX and SoCal weaken, moving from 87% to 82%
+, Malin tightened from 94% to 96%, Rockies from 94% to 99%, ElPaso SJ from
+94% to 98%, Permian from 99% to 1, AECO from 96% to 97%.
+
+The most significant change in correlations came from SoCal.  The old factor
+loading had SoCal/Rockies 95% correlated, today it is in the system as 74%.
+The SoCal/San Juan relationship fell apart moving from 98% to 75%. SoCal/AECO
+from 95% to 76%, SoCal/Permian from 92% to 82%.  Additionally, note that
+IF-HeHub was dropped as a primary curve and Transco Z6 was added as a primary
+curve.
+Thanks,
+Frank
+

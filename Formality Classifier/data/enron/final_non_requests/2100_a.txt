@@ -1,0 +1,6 @@
+Vince,
+FYI
+below is the comparison of the computation time results from CPLEX and XPRESS
+optimization softwares.
+-Chonawee
+

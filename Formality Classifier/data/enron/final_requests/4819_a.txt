@@ -1,0 +1,45 @@
+A new service type "Park & Loan - Non Pathed" has been created in
+Global Contracts for 3rd party contract #125099.
+
+Please call if you have any questions.
+
+Thanks,
+
+Sylvia
+x3-5755
+
+Richard Pinion
+05/12/2000 10:27 AM
+To: Sylvia A Campos/HOU/ECT@ECT, Diane E Niestrath/HOU/ECT@ECT, Angie
+Zeman/Corp/Enron@ENRON, Victor Lamadrid/HOU/ECT@ECT
+cc: Donna Greif/HOU/ECT@ECT, Chris Germany/HOU/ECT@ECT, Connie
+Sutton/HOU/ECT@ECT
+Subject: Iroquios - Model Type Change Needed
+
+In order to prepare for EDI, I have reviewed the February invoice from
+Iroquios and determined that this contract (125099) is indeed billed as the
+pipeline stated - a non-pathed service.
+
+Sylvia, please modify similar to National fuels by creating a new service
+type - "Park and Loan - Non Pathed" to be effective 6-1-00.  Are there any
+others? Please notify the above when done.
+
+Chris, will you set up a new deal ticket on this new service in Sitara when
+available and notify Angie?  Terminate the old deal ticket effective 5-31-00
+
+Angie, it  appears you are already pathing this contract correctly, it will
+be necessary to select the correct service from the service list for June 1st
+nominations.  There are some other contracts that I believe we need to change
+the pathing methodology on in the near future.
+
+thx
+RP
+
+From: Diane E Niestrath on 05/03/2000 05:53 PM
+To: Richard Pinion/HOU/ECT@ECT
+cc: Donna Greif/HOU/ECT@ECT
+Subject: Iroquios - Model Type Change Needed?
+
+Will this contract be able to be added as non-pathed for edi, or do I have to
+hardcode?
+

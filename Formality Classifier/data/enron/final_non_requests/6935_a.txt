@@ -1,0 +1,11 @@
+Winston,
+I am sending you FFD vol curves which are calculated based on 1 month (18
+log-returns)
+of data with 0.97 decay factor. These vols give $3.14 M in VAR for
+STORAGE-PRC (versus 3.37 in production
+for 5/30/00).
+
+Tell me what I need to change in the format so that it is convenient for you.
+
+Tanya
+

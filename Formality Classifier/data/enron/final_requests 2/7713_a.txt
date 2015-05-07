@@ -1,0 +1,31 @@
+I am sending this email out as a "For Your Information".  If you have any
+questions, please contact the helpdesk or myself!
+
+When your LAN password expires on to NNGOMAHA the new "grace login" setting
+is 3 (changed from 6).  You will only have 3 attempts to change your
+password.  Call the helpdesk if you need assistance.
+
+The new standard browser for GPG is Internet Explorer, Netscape will no
+longer be installed on desktops.
+
+Any software that you have installed on your desktop will not be reinstalled
+if you need to have your desktop rebuilt.
+
+The Helpdesk's normal business hours are 7:00 am to 6:00 pm.  Normal business
+hours means someone from the LAN team is in the building.  If you require
+emergency assistance after hours or during business hours please call the
+Helpdesk and mark the message urgent and the on-call person will be paged.
+Please remember - to mark a message urgent you must first leave a detailed
+message and then press * # 3.
+
+Please call the Helpdesk for all helpdesk/desktop related issues.    We are
+currently implementating Remedy -- GPG's new Helpdesk application for
+tracking tickets and more!  Calling us directly may not get you the best
+possible service!   I will still be the escalation person for all issues or
+concerns.
+
+Diane Becker will be joining the LAN Team starting on June 26, please stop by
+the 2nd floor and Welcome Diane back to Omaha!
+
+Thanks, Jean x7173
+

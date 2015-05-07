@@ -1,0 +1,29 @@
+Keith,
+
+Both power and EMRS use a C library provided (also implemented) by research
+group. The methodology of greek calculations in power portcalc has not
+changed for more than 6 years since I joined Enron 6 years ago. Vince
+Kaminski, Stinson Gibner or Grant Masson should be able to help you with both
+questions.
+
+Zhiyong
+
+Keith Bowie
+06/28/2000 04:22 AM
+To: Zhiyong Wei/HOU/ECT@ECT
+cc: Brian Hudson/LON/ECT@ECT
+Subject: PortCalc methodology
+
+Zi
+
+I've been asked by Risk Management:
+a)  who in research originally signed off the PortCalc formulae
+b) for a copy of the documentation of the methodology (greek calculations,
+etc.)
+
+Hope you can help on both counts.
+
+Thanks
+
+Keith
+

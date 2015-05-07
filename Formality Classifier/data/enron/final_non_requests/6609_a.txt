@@ -1,0 +1,34 @@
+Hi Stinson, as per our discussion, here is the e-mail from Jim on the
+subject.  I convinced Jim that this type of modeling effort is our gig and he
+completely agrees.  As per Jim's suggestion, he and I will talk more on the
+product while we are in Denver. I suspect that we will arrange for the vendor
+to come to Houston and do a presentation on the product and install the
+product on our machines.   As for additional development we should get John
+Bloomer and Jim together in a meeting and hash out the requirements from John
+Bloomer's perspective.
+
+Using Vince's analogy, this tool allows us to deternime the size of the cargo
+space needed for Fedex-like delivery (our streaming media products). Whereas,
+the optical light path switching (DS-3, OC-3, OC-12 and OC-48) based trading
+will reserve the underlying airline routes, etc.  So the packet based stuff
+is looking at the required capacity from IP layer (Network and Transport:
+level 3 and 4) requirements. The optical light path is Level 1 & 2 based
+requirements.  That is this tool will allow John Bloomer to size (actually we
+will do the analysis for him) the capacity requirement that he would need for
+the products that he is developing.
+
+That is my take on the difference, we'll find out otherwise.
+
+Once I finish off this discussion with Jim in Denver, I suggest putting
+Martin Lin on the job to find out more about the product and do the leg work
+to arrange for vendor demo and software installation.  Martin will keep Samer
+and Chonawee updated on the information that he gathers.  Martin please start
+checking on the web about this company and other similiar produts. I will get
+you contact number for EBS and the vendor as soon as Jim provides them to
+me.
+
+Avici uses this product. Avici is a next generation router vendor that is
+selling Terabit routers. EBS is an investor in that company.
+
+Ravi.
+

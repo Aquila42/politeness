@@ -1,0 +1,14 @@
+Effective immediately, please use the attached list as a point-of-reference
+for work orders related to Cost Center 105657 (formerly RC1157).  Please note
+that the SAP system refers to Cost Centers rather than RCs.
+
+Company code = 0413
+Cost Center = 105657
+
+
+
+Please let me know if you have any questions or comments regarding the
+attachment.
+
+Taffy
+

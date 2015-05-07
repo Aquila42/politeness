@@ -1,0 +1,12 @@
+I did not restore your personal Notes Address book.
+
+You can restore the address file quickly  via:
+
+Close Notes.
+
+Copy the C:\NOTESOLD\DATA\NAMES.NSF file to C:\NOTES\DATA\NAMES.NSF.
+
+If you do not understand this - email or call me.
+
+Mark Kostinec - ext. 402-398-7294
+

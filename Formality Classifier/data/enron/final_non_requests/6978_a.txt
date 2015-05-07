@@ -1,0 +1,16 @@
+The Transaction must get papered whether its GTC's or a Deemed ISDA.  The
+convention in the physical world (as I understand it) is that the seller
+sends its paper.  SS
+
+Tanya Rohauer
+03/09/2000 12:29 PM
+To: Tracy Ngo/HOU/ECT@ECT
+cc: Sara Shackleton/HOU/ECT@ECT
+Subject: New York State Electric & Gas Corporation ("NYSEG")
+
+Tracy - since I 'm in class today and tomorrow will you find out what John's
+up to and circle back with Sara?  The deal should be papered as ENA.  Sara, I
+cannot imagine why we need a Deemed ISDA for a two day deal....if John
+indicates plans for additional deals, we may want to pursue, but I don't
+think its necessary at this point.
+

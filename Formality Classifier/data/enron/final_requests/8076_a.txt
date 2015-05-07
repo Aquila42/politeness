@@ -1,0 +1,19 @@
+FYI - Here is the list of the transaction types we will be using in SAP with
+the numbers assigned to them in production.  A transaction type will be
+required anytime we book to the Merchant Investment general ledger account
+24091000.
+
+E09 Contribution
+E10 Distribution
+E11 Capitalized Interest
+E12 PIK Dividends
+E13 Fair Value Adjustment
+E14 Fair Value Adjustment - Permanent Write Down
+E15 Fair Value Adjustment - Sale of Asset
+E16 Fair Value Adjustment - Write off Loan
+
+Please let me know if you have any questions.
+
+Thanks,
+Pam
+

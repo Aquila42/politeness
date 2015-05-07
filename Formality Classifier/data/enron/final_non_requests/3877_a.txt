@@ -1,0 +1,10 @@
+Here are some notes on LR/SR.  One more thing.  I made an unfortunate
+statement on the notes on Game Theory which said you shouldn't worry about
+the two stage price game.  This material should in fact be known for the
+final.  Question 3 on PS6 covers it.
+
+J. Lamar Pierce
+Ph.D Student
+Haas School of Business
+UC Berkeley
+

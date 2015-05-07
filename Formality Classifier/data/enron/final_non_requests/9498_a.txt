@@ -1,0 +1,5 @@
+Our net nymex equivalent position for today's exotics portolio is 21
+contracts .  I changed the pubcode for the spread options from a basis curve
+(CGPR-AECO/BASIS)  to a Fixed Price Curve (AECOUS) so hopefully this will
+help us reconcile.
+

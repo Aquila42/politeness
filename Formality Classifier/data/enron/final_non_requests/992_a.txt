@@ -1,0 +1,19 @@
+I have created the following new Product Types in the Data Manager:
+
+AUS CDD Swap
+AUS HDD Swap
+JPN CDD Swap
+JPN HDD Swap
+
+These are exactly the same as the existing AUS and JPN Weather Swap Product
+Types which you have previously approved with the exception that they have
+been created with the trading entity as Enron North America and will be
+denominated in USD. The intention is to give the seperate Weather desks the
+ability to transact weather around the clock. The transactions will be
+denominated in the domicile currency, thereby avoiding dual taxation
+consequences.
+
+Please go into the DataManager and offer your respective approval.
+
+Dale
+

@@ -1,0 +1,6 @@
+Reflecting a few comments from Eric Saibi, Ed Baughman and Leslie Hansen to
+the June 16th draft website text, attached are auction rules and the auction
+website text for the EOL Generation Capacity Products.  I am asking for any
+final comments/changes, within the next day if possible, so that the
+definitve texts can be made available to the EOL programmers.  Thanks.
+

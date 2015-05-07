@@ -1,0 +1,14 @@
+Naveen,
+as we discussed yesterday, I would like to see the results of Components VAR
+testing.
+I got some from Sunil today for AGG-GAS.
+In addition if you can send me Component Var results for NG-PRICE for some
+date,
+as well as NG positions, forward price curve, forward volatility curve for
+NG-PRICE-PRC for that
+same date, I can verify the numbers.
+
+Thank you,
+
+Tanya.
+

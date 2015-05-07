@@ -1,0 +1,20 @@
+To all
+
+rough pass at EPC draw schedule in attached Excel for 2,3,4,5 and 6 unit
+plants - assumes two week spacing on start up - based on normal simple cycle
+deal. If we need to do major LM6000 payments up front then we should have a
+front end weighted curve (I will go ahead and generate a front-ended curve
+for each config) - depends on how we really extract each from WestLB deal -
+above my pay grade to know those lofty things.
+
+Data is based on ElectriCities installation schedule from Nepco, we are
+working to see if we can compress actual time in field as part of reducing
+project anticipated cost so might be better once Mike Coleman and Bruce work
+our magic. % are from my vast experience and would be challenged and derided
+if a real cost engineer looks at them but at least they add to 100% (I hope)
+and sort of match our Hainan experience with three of these LM6000's.
+
+
+
+Bruce
+

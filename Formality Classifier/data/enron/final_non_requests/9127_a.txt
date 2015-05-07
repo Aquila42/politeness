@@ -1,0 +1,29 @@
+Return-Path: <vkamins@ect.enron.com>
+Received: from  rly-yh03.mx.aol.com (rly-yh03.mail.aol.com [172.18.147.35])
+by air-yh03.mail.aol.com (v67_b1.21) with ESMTP; Fri, 28 Jan 2000 17:34:19
+-0500
+Received: from  mailman.enron.com (mailman.enron.com [192.152.140.66]) by
+rly-yh03.mx.aol.com (v67_b1.21) with ESMTP; Fri, 28 Jan 2000 17:34:06 -0500
+Received: from dserv1.ect.enron.com (dserv1.ect.enron.com [172.16.1.37]) by
+mailman.enron.com (8.8.8/8.8.8/corp-1.03) with ESMTP id WAA12938 for
+<vkaminski@aol.com>; Fri, 28 Jan 2000 22:33:40 GMT
+Received: from notes.ect.enron.com (notes.ect.enron.com [172.16.4.33]) by
+dserv1.ect.enron.com (8.8.8/8.8.8) with SMTP id QAA21960 for
+<vkaminski@aol.com>; Fri, 28 Jan 2000 16:34:05 -0600 (CST)
+Received: by notes.ect.enron.com(Lotus SMTP MTA v4.6.5  (863.2 5-20-1999))
+id 86256874.007BF6C3 ; Fri, 28 Jan 2000 16:34:00 -0600
+X-Lotus-FromDomain: ECT
+From: "Vince J Kaminski" <vkamins@ect.enron.com>
+To: vkaminski@aol.com
+Message-ID: <86256874.007BF56A.00@notes.ect.enron.com>
+Date: Fri, 28 Jan 2000 16:33:56 -0600
+Subject: Credit Applicatiions in GRMS
+Mime-Version: 1.0
+Content-type: text/plain; charset=us-ascii
+Content-Disposition: inline
+Content-Transfer-Encoding: 7bit
+
+
+
+
+

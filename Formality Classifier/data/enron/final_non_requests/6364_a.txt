@@ -1,0 +1,65 @@
+Due to the timing differences I had a crack at including these changes.
+Attached is an amended confirmation. The only change I was not sure about was
+tightening up the temperature definition. Do you mean moving to greater
+precision in rounding? No problem but we are following the UK approach.
+I would be most interested in any comments Paul would have. By way of
+background I consulted the London office on their rounding conventions for
+Celsuis.
+
+Raymond Yeow
+04/14/2000 07:58 AM
+To: David Minns/ENRON_DEVELOPMENT
+cc: Sara Shackleton@ECT, Paul Quilkey/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT,
+Stephen J Lowe/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Heidi
+Mason/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Nick Mooney/LON/ECT@ECT, Jerven
+Zhang/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT
+
+Subject: Global Confirm for Weather
+
+Dear David,
+
+Thanks to you for your prompt attention and to Jerven for finding Christian's
+corrected document.
+
+Nick has commenced the process to put a global confirm which can be used
+woeldwide by Enron for weather derivatives,
+He has contacted Paul Simons , ex Clifford Chance , ISDA board member, and
+SFC compliance officer to kick off.
+
+In the meantime, we will use the document below { CDD 13-04-00.doc }
+but changes will still be further required - sorry :o(
+
+A.
+Payment Date(s)
+
+want to say that final payment from any adjustment is no later than 20 biz
+days after end of 95 days.
+Avoids continual payments if temp is revised frequently in the 95 days.
+
+
+B.
+in Floating amount for
+time, and tighter defn of temperature
+and base temp is 18
+
+C.
+Data Sources
+I want to make the Final payment dependent not on website ( because website
+is not updated when a correction occurs)
+but rather the final
+Data Source is  "daily temp and climate archive" of the National
+climate centre ( NCC) of BoM
+
+Do you want me to type up changes for you to peruse or shall i chase up
+directly with Sara ?
+Who OKs the wording of the confirm. ?
+
+
+Thx, Raymond
+13 April
+
+To: Raymond Yeow/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT
+cc:
+
+Subject: FYI---Re: Australian CDD Confirmation
+

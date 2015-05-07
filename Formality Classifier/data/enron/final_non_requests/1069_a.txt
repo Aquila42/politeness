@@ -1,0 +1,13 @@
+Tana:
+The following CPs are not authorized to trade US power products:
+El Paso Merchant Energy-Gas, L.P. -- do not change profile -- not a current
+CP/not FERC approved
+AK Steel Corporation - restricted by credit
+City of Huntsville - not current CP/not FERC approved
+Holnam Inc. - not current CP/not FERC approved
+Unicom Energy Inc. - not current CP/not FERC approved
+*****************
+Turlock Irrigation District - do not change profile -- open for West power;
+not authorized to trade East power
+
+

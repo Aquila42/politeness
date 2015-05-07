@@ -1,0 +1,21 @@
+
+Geoff,
+
+	Attached is yesterdays NG curves that goes out more than
+14 years. Is the curve that you talked to me about yesterday?
+If it is, this curve was entered by Dutch Quigley using curveload.
+
+ 
+Francis
+
+
+
+NOTES ONLY:
+the curves were generated using the query below:
+
+	select ref_period_dt,curve_amt
+	from egs_curves
+	where effective_dt = '26-mar-01'
+	and curve_cd = 'NG'
+	and curve_type_cd = 'PR'
+	order by ref_period_dt

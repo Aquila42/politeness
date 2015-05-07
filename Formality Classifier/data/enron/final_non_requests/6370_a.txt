@@ -1,0 +1,12 @@
+Tana:
+None of the following CPs are approved to trade US power:
+Nicor Gas Company -restricted by credit
+Northern Illinois Gas Company - restricted by credit
+Sumitomo Electric Industries LTD. - not a current CP/not FERC approved
+Taylor Energy Company - restricted by credit
+*******************
+Dynegy Power Marketing, Inc. - no change to profile
+Taunton Municipal Light Plant - authorized to trade US power pursuant to
+on-line GTCs (no master)
+
+

@@ -1,0 +1,8 @@
+Just so you know, I had two things installed on my pc on Friday.  I believe these are both applications we may install elsewhere in the future.  Since then my pcs have not worked, I was given two new pcs and these do not work either.  We have finally got one application working - Outlook, hence the email.  I would suggest that we refrain from rolling out these applications further until the problems have been figured out.
+
+Particular problems I currently have include:
+Gas Fundamentals Website - repaired this evening by Mike Guadarama
+RiskTrac - complete failure
+Credit Risk View - complete failure
+Internet Explorer - incredibly slow even when reading from c drive
+

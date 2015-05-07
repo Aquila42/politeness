@@ -1,0 +1,9 @@
+
+Hi All,
+
+I recently made a change to VolSmile.xls  to pick up the NT username versus the application(excel) username.  This change will not effect the functionalities of VolSmile.  I have deleted the User Name and Password in Sheets("Skew4"), since you will not need to enter a username/password.  The code will check your read/write access against your NT username.  Once again, the change will not effect any of VolSmile's original functionalilties.  Please refer to the attach file for usage.  If anyone has questions/comments concerning this change, please let me know.
+
+Margie
+53706
+
+ 

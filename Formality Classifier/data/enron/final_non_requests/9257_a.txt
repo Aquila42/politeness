@@ -1,0 +1,10 @@
+Tana:
+ANR Pipeline Company is not authorized to trade U.S. power products.  The
+other CPs are fine.
+ANR is not a current trading partner and is not on my FERC-approved lists.
+El Paso Electric Company currently trades in the West pursuant to the WSPP.
+Since credit has rated them as a "SC", they cannot trade pursuant to the WSPP
+and must instead trade pursuant to the GTCS with collateral.  Accordingly,
+this CP must receive an override letter.
+
+

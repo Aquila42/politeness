@@ -1,0 +1,14 @@
+
+Hi Sara:
+
+Below is an example of language we are currently using for common pricing.  
+We have been tailoring the language for each deal to specify which indices 
+the deals are priced on, however, we would like to have language that is 
+generic (i.e. Pricing to be effective only on the days when the applicable 
+indices are published, etc.).  Will you help us develop language for this?   
+Thank you!
+
+Common Pricing:
+
+Pricing to be effective only on the days when both the IPE is open and Platts 
+publish their dated Brent assessment.

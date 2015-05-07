@@ -1,0 +1,9 @@
+I need to do a draft for a paper confirmation that is an Omnibus Swaption.
+The only template that I have is the one I attached. Is it O.K. to use? Can I
+use the current ISDA one and tweek it to be an Omnibus (ie: Determination
+Periods, no reference to ISDA)?
+
+Thanks,
+
+Jarrod
+

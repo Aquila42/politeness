@@ -1,0 +1,4 @@
+I just created a deal for TRCO contract 3.3433 (deal 157600).  This is the
+master contract for all ENA deals on rate schedule FTSR.  We will be doing
+nominations under this contract.
+

@@ -1,0 +1,17 @@
+Karla:
+
+Please inform Henwood that Enron will renew the license for the Prosym
+software modules but will not renew the licenses for North American databases.
+The software modules to be renewed are:
+Base System (Prosym?) (ECOsym is included in the base system)
+ASAP/MSTAT
+MULTISYM
+EMSS interface.
+
+It is not 100% sure that the last module is required. Nevertheless, please
+begin the agreement amendment process asap.  I will let you know if there are
+modifications soon.
+
+Thanks,
+Grant.
+

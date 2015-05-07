@@ -1,0 +1,166 @@
+Most Informative Features
+      formal_punctuation = False          inform : formal =      4.3 : 1.0
+           abbreviations = True           inform : formal =      3.0 : 1.0
+    informal_punctuation = True           inform : formal =      2.7 : 1.0
+              msg_length = True           formal : inform =      2.1 : 1.0
+                  polite = True           formal : inform =      2.0 : 1.0
+                  polite = False          inform : formal =      1.9 : 1.0
+              misspelled = False          inform : formal =      1.8 : 1.0
+                   slurs = True           formal : inform =      1.7 : 1.0
+    informal_punctuation = False          formal : inform =      1.5 : 1.0
+                   slurs = False          inform : formal =      1.4 : 1.0
+None
+Training done
+
+102459.txt informal
+correct
+
+104940.txt informal
+correct
+
+10851.txt informal
+incorrect
+
+112720.txt formal
+correct
+
+118078.txt informal
+correct
+
+12091.txt informal
+correct
+
+126804.txt formal
+correct
+
+142335.txt informal
+correct
+
+156101.txt formal
+incorrect
+
+163350.txt informal
+correct
+
+163663.txt formal
+incorrect
+
+164295.txt informal
+correct
+
+172469.txt formal
+incorrect
+
+174608.txt formal
+correct
+
+177174.txt formal
+correct
+
+188408.txt formal
+correct
+
+196977.txt formal
+correct
+
+25088.txt formal
+incorrect
+
+28781.txt formal
+incorrect
+
+306.txt informal
+correct
+
+30666.txt formal
+incorrect
+
+312.txt informal
+correct
+
+31259.txt formal
+incorrect
+
+35229.txt formal
+correct
+
+358.txt informal
+correct
+
+39183.txt informal
+correct
+
+74838.txt formal
+incorrect
+
+79849.txt informal
+incorrect
+
+82154.txt informal
+correct
+
+84701.txt informal
+correct
+
+90024.txt informal
+correct
+
+94240.txt formal
+incorrect
+
+95486.txt informal
+correct
+
+95618.txt informal
+correct
+
+maildir_buy-r_inbox_234.txt formal
+correct
+
+maildir_dasovich-j_notes_inbox_1868.txt formal
+correct
+
+maildir_derrick-j_notes_inbox_74.txt formal
+correct
+
+maildir_fossum-d_notes_inbox_253.txt formal
+correct
+
+maildir_gay-r_notes_inbox_14.txt formal
+correct
+
+maildir_gilbertsmith-d_inbox_114.txt formal
+correct
+
+maildir_gilbertsmith-d_inbox_59.txt formal
+correct
+
+maildir_hain-m_notes_inbox_835.txt formal
+correct
+
+maildir_hodge-j_inbox_389.txt formal
+correct
+
+maildir_hyatt-k_personal_73.txt formal
+correct
+
+maildir_jones-t_notes_inbox_2178.txt formal
+correct
+
+maildir_jones-t_notes_inbox_4719.txt formal
+correct
+
+maildir_shackleton-s_inbox_489.txt formal
+correct
+
+maildir_steffes-j_sent_items_1463.txt formal
+correct
+
+maildir_taylor-m_inbox_ev_2.txt formal
+correct
+
+maildir_taylor-m_notes_inbox_1253.txt formal
+correct
+
+78.0 %
+23 9 16 2

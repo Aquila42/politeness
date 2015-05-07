@@ -1,0 +1,21 @@
+Hello everyone:
+
+In doing the SAP timesheets this time I have discovered there are several
+people listed in the 105896 Cost Center - ORG. Unit #1424 (Research) that
+are no longer in the Research Group.  Shouldn't they be moved?
+
+They are:
+
+Alexios Kollaros 502373  Now with the new Power Co.
+Farouk Lalji  501609  Analyst rotated out
+Ainsley Gaddis  400250  Summer Intern returned to School (last day the 11th)
+Mandeep Chahal 502876  Now with the new Power Co.
+James Aimone  514849  Summer Intern returned to School (Last day the 11th)
+Roman Zadorozhny 501778  Now with another co. in Enron
+
+Please let me know if I need to do anything.
+
+Thanks!
+
+Shirley
+

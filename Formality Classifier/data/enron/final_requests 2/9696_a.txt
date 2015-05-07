@@ -1,0 +1,20 @@
+Below is the summary of the deal I passed out earlier this week.
+
+
+
+I have not closed on the 1Bcf supply purchase, but should have that done at
+the beginning of next week.  The gas price will be GDA-Mid for NGPL (La.) +
+$0.025.  This gas can be called upon hourly up to 50,000 MMBtu/day.  Example
+of the pricing mechanism (that NGPL prefers) is as follows:
+
+Gas Nom  Gas Flow  Applicable Gas Daily Publication
+Monday (intraday) Monday  Tuesday
+Monday  Tuesday  Tuesday
+Weekend  Weekend  Monday (unless Monday is a holiday, then Tuesday)
+
+Let me know if you perfer a differnt structure.
+
+
+chris
+x31666
+

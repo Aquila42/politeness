@@ -1,0 +1,59 @@
+Gas Rule
+The Commission voted out a draft Gas Rule today (Rm98-10/RM98-12).  Based on
+the discussion, the rule contains the following major provisions:
+
+Waiver of Capacity Release Price Caps.  A waiver of the price cap on
+short-term (1 year or less) capacity release transactions through September
+2002.  Hebert would have preferred a permanent removal of the price cap.
+Seasonal Rates.  A framework for pipelines to propose peak & off-peak rates
+for short-term services.  Pipelines would make pro forma filings.  The
+Commission commits to act on the filings within 60 days.  There would be a
+requirement to make a cost and revenue study after 15 mo. to demonstrate
+whether there are overcollections as a result of the seasonal rates.  Any
+overcollections would be shared 50-50 with customers.
+Term Differentiated Rates.  Approval of the concept of term-differentiated
+rates, subject to the requirement that a pipeline would have to make a
+Section 4 filing to implement term-differentiated rates.
+Operational Provisions.  Scheduling/segmentation/penalty rules along the
+lines set forth in the NOPR, including:  (1) equality of scheduling between
+capacity release and pipeline services, (2) standardization of segmentation
+rules, (3) moving away from "command and control" imbalance/OFO provisions in
+favor of new services and better information  to manage imbalances, and (4) a
+requirement to credit remaining penalty revenues.
+Real-time Reporting.  Transactional data would be electronically posted on a
+real-time basis.
+Right of First Refusal.  The rule continues a ROFR for all existing long-term
+contracts with the 5-year matching cap, subject to the following revisions:
+(1) for future contracts, only contracts of more than 1 year at maximum rates
+will have the ROFR (i.e. discount rate contracts will not enjoy ROFR), and
+(2) on systems with incremental rates, a customer exercising ROFR may be
+required to match the incremental rate, but these provisions will not take
+effect until a pipeline has made a Section 4 filing to determine the correct
+rate for ROFR on a particular system.
+Not Included in the Rule.  The rule does not have a mandatory auction
+requirement, although voluntary auctions are discussed. The rule does not
+authorize negotiated terms.
+
+
+Clarification of Certificate Policy Statement/NOPR to Eliminate Optional
+Expedited Certificates
+The Commission proposed to eliminate OEC in favor of a single framework for
+all Section 7 certificates.  During the
+pendency of the NOPR, OEC would still enjoy a presumption that the facilities
+are in the public interest, but the factors set forth in the Policy Statement
+may be used to rebut the presumption.
+
+With respect to the Certificate Policy statement, the Commission generally
+sticks with the policy in the September order.  It reaffirms the no subsidy
+policy, provides guidance on projects that are a combination
+expansion/existing system, clarifies that Memphis clauses can still be used
+in expansion contracts (although the FERC doesn't necessarily think its the
+best way to allocate risks), and discusses ROFR in the expansion context.  It
+does not appear that the clarification addresses the issue of timing of
+applicability.
+
+
+Keep in mind that this summary is based only on the open discussion.  A
+written copy of the rule is not yet available.  I will send a more detailed
+review once I have seen the rule.
+

@@ -1,0 +1,35 @@
+Vance,
+
+Deal # 357904 has been created and entered in Sitara.
+
+Bob
+
+Vance L Taylor
+08/04/2000 04:06 PM
+To: Robert Cotten/HOU/ECT@ECT, Hillary Mack/Corp/Enron@Enron, Lisa
+Hesse/HOU/ECT@ECT, Trisha Hughes/HOU/ECT@ECT
+cc: Susan Smith/HOU/ECT@ECT, Donald P Reinhardt/HOU/ECT@ECT, Melissa
+Graves/HOU/ECT@ECT, Tom Acton/Corp/Enron@ENRON
+Subject: United Oil & Minerals, Inc., Chapman Unit #1
+
+Bob,
+
+The following production commenced to flow on Friday and a ticket should be
+created and entered into sitara based on the following:
+
+
+Counterparty   Meter   Volumes  Price    Period
+United Oil & Minerals, Inc.   9846   1,500mmbtu/d  100% Gas Daily  less $0.12
+8/4 - 8/31
+
+
+FYI, Susan will create and submit a committed reserves firm ticket for the
+remaining term of the deal beginning with the month of September.
+Additionally, this is a Producer Svcs. deal and should be tracked in the IM
+Wellhead portfolio... attached to the gathering contract.
+
+Thanks,
+
+vlt
+x3-6353
+

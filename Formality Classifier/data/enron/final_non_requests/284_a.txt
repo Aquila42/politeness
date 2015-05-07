@@ -1,0 +1,23 @@
+Alfredo, further to our conversations of earlier today here is a brief summary of some of the issues related to this type of transaction and the significant risks associated with it's implimentation. Please provide to your client and advise me as to what steps you would like to take next.
+
+Pricing:  consortium will sell to Sempra at a monthy index related price ( probably Socal Monthly Index will provide the highest liquidity and reflect best the alternative pricing risks related to gas supply in this reqion and perhaps more importantly the revenue stream that Sempra may received related to it's sale of either natgas to industrials or their own markets. There will be a premium or discount associated to this index which may incorporate delivery point differences and overall volume indigestion.
+
+In order to secure project financing, Repsol will have to convert from a floating price to a fixed price and to do this they will have to lay the monthly index risk off to UBS Warburg Energy or a syndication ( which we put together). The ability to do this is going to be extremely complicated because of these key factors... Volume ( size ), Term ( 20 years) , liquidity ( long dated markets are very thin in the energy sector) , bid/offer ( market bid will become very low ( if at all ) if we take away the liquidity).  A very important factor that has to be considered is LOAD Factor ... basically this is a performance issue and it cuts both ways, is the gas delivered firm, or an a best efforts... what happens when someone is supposed to deliver and does not.. and vice versa, what happens when someone is supposed to take and fails to.. these all form part of liquidated damages/settlement issues. The mismatch between physical and financial settlement is very relevant.
+
+I would suggest that we would only think about a syndicated hedge ( thus staying away from the books) and possibly laying off to third parties ( similar to mezzanine or umbrella structures).  By combining some fixed price with the desks, some with
+
+
+
+
+
+Barry Tycholiz
+UBS Warburg Energy LLC.
+Executive Director
+1500 Louisianna St.
+Houston, Tx  77002
+
+ph: 713-853-1587
+Cell:713-302-6442
+fax:713-646-2391
+barry.tycholiz@ubswenergy.com
+

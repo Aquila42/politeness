@@ -1,0 +1,16 @@
+Fred,
+
+I have finished a model we talked about a few days ago.
+
+The option we try to price is a digital on on an Asian Strip.
+If the average price of the prompt month crude oil in a specified time window
+falls below the strike price, the option pays a lump sum of money secified by
+the "digital payout" in the model.
+
+As a comparison, I also included European option on the Asian Strip.
+
+Let me know if you have any questions.
+
+Zimin
+x36388
+

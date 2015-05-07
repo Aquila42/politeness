@@ -1,0 +1,10 @@
+Sorry for the delay.... here are some general answers to a these questions.
+
+1. the two way on a 10 year nymex swap on volumes between 20,000 and 100,000 MMbtu per day will range between $ .10 / MMbtu up to $ .50/ MMbtu.  It may take anywhere from 1 week to one month to liquidate/hedge.
+
+2. Contracting for floors has some appeal, and for sure upside but liquidity passed year one is very small and time value on premium could be a killer... collars may work but bid/ask inside derivative may create to tight a range. There are a variety of structures that can be created for the hedge including put swaptions, ( one time strike), and monthly calls, these may be a little cheaper but the order or magnitude will probably not show up on a spreadsheet once all these numbers are on it.
+
+3.  I have been involved in a handful of transactions directly or indirectly including 15 year nymex, 23 year transportation and long term gas supply including a 50,000 MMbtu/day 17 year index structure where we filled long term gas supply for the CFE ( mexico). The liquidity, credit risk, and transactability is scewed to the 1st, 2nd and perhaps 3rd year.. anything longer than that that involves fixed price and term is sloppy.
+
+In this early stage hedging against the nymex may make alot of sense... especially when the current/spot spreads to socal are so tight to the Nymex... keeping the basis open may create a implied ( free option) to your client with minimal downside risk...
+

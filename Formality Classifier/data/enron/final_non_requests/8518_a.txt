@@ -1,0 +1,27 @@
+Bill
+
+You are probably aware that Enron has gone unconditional on its offer to buy
+MG, a metal company here in London.
+The objective is to integrate with them ASAP and as smoothly as possible.
+
+I made a visit with MG today and talked to their FX trader who said that he
+trades with the following banks:
+CIBC
+Deutche Bank
+Commerz Bank
+Metall Bank
+
+Can you please tell me what lines we have in place with these, if any at all.
+
+
+Sara
+Do we have isdas etc in place?
+
+
+Most of the trades are spot or 3mth forward, but some trades are up to four
+years out.
+
+
+Thanks
+Trena
+

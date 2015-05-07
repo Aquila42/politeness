@@ -1,0 +1,20 @@
+Ben,
+As far as Georgia is concerned, we should have a total of five dots on the
+state.  The Doyle project actually needs to be changed to "In Operation" as
+it is now going through its run tests.  The Athens, GA site should be labeled
+"Development (Site Secured)".  Then, their should be three other dots all
+labeled for "Development (Site Under Construction)".  These three dots are
+sites in Hart, Jefferson and Washington county, GA.
+
+
+Benjamin Rogers@ECT
+05/12/2000 08:05 AM
+To: Stephen Plauche/Corp/Enron@Enron
+cc:
+
+Subject:
+
+Here are the maps for the development sites.
+Ben
+3-7998
+

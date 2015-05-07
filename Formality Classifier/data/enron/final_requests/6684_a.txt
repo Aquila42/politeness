@@ -1,0 +1,46 @@
+Ravi,
+
+At some point we would like to include bandwidth under AOL. This clause
+may be very restrictive.
+
+Vince
+
+Ravi Thuraisingham@ENRON COMMUNICATIONS on 02/15/2000 09:57:17 AM
+To: Mark Holsworth/Corp/Enron@ENRON
+cc: Vince Kaminski, Stinson Gibner/HOU/ECT@ECT
+Subject: Spreadsheet database for purchase
+
+Hi Mark, as per our discussion earlier today, here is the contract that KMI
+wants us to sign.  Please review as soon as you can.  As I mentioned in our
+discussion, I am heading up the EBS research group reporting to Vince
+Kaminski and Stinson Gibner (MDand VP of Enron Global Research,
+respectively).  Vince has asked me to talk you directly on matter such as
+this rather than using EBS service since we will be performing much of the
+work stationed out of Enron Corp and the database itself and any resulting
+analysis will reside in Research.
+
+I took a quick look at the contract and already found some things that seems
+too restrictive.  For example, the following clause may need to be removed
+unless you think it would not affect us:
+
+Fourth paragraph:  " (ii) that you are in a business that does not include
+the operating of an online exchange or auction for bandwidth"
+
+Strictly speaking, we are NOT in the business of online exchange or auction
+for bandwidth (since that is how we differentiate our market-making activity
+from other online exchange players such as Band-x and Rate exchange), our
+trading activity can be loosely defined as such in an very immature trading
+market such as the current status of telecom market.  What do you think?  I
+would like to set up a meeting with you to discuss EBS and our role and how
+this database will be used, etc... Please have your assistant call Kristy
+Carnes to set up this meeting this week.
+
+I thank you very much for offering to take a look at this at such a short
+notice.
+
+
+
+Regards,
+
+Ravi.
+

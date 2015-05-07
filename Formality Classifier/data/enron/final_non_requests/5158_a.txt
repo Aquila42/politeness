@@ -1,0 +1,13 @@
+Hello Folks,
+
+There has been some confusion about the Income Statement Gain/Loss Comparison
+table on page 4 of Handout 3.  This table is correct as given and reflects
+income statement gains and losses due to changes in market value only.  This
+table does not include income due to interest payments or dividends
+received.  As you recall, market value changes for trading securities flow
+through the income statement while gains and losses for available for sale
+and held to maturity securities only affect income when they are sold.
+
+Michelle Wood
+mwood@haas.berkeley.edu
+

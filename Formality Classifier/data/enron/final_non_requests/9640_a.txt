@@ -1,0 +1,8 @@
+Here are the values for Cage Gas Services by Deal #:
+DEAL #   VALUE
+N47413    $201,213
+N10445    $119,027
+NB0242    $448,521
+TOTAL     $768,761
+edm
+

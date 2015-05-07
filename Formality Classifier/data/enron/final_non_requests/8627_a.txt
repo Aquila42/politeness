@@ -1,0 +1,10 @@
+I have set up the following contracts for Columbia Energy Services:
+
+Counterparty Name  Global Contract Number
+
+CES Asset Management 96031882
+CES Gas Sales   96031916
+CES Prepaid Gas  96032019
+CES CALP Exchange  96032253 (Market)
+CES CALP Exchange  96032252 (Production)
+

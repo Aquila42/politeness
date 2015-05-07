@@ -1,0 +1,26 @@
+Please see the attached Management Report for June 26, 2000:
+
+Total  Today Year To Date Life To Date
+
+Number of Transactions  2,385 165,717 170,718
+Gross Notional Value $  1,161,577,352 77,934,052,694 79,148,739,267
+(The above value numbers do not include UK Power due to severe system issues.)
+
+Revenue from Physical flows to date ($)  4,760,181,617 4,855,933,109
+
+
+New Counterparties transacting today  5
+Counterparties having transacted to date  378
+
+Also attached is the Public Domain Report, containing information which is
+intended for use in presentations or reports which will be seen by
+individuals outside Enron:
+
+Total Life to Date Transactions   > 169,000, which is > 52 % of Enron,s
+current transactions for the month
+Average Daily Transactions    > 2,000
+Life to Date Notional Value of Transactions > $78 billion
+Average Daily Notional Value    = Approximately $1 billion, which is 45% of
+Enron,s Notional Volume
+Number of Products Offered Each Day  = Approximately 820
+

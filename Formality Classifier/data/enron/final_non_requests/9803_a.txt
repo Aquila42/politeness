@@ -1,0 +1,11 @@
+At least one change was made on the mark-up that wasn't flagged in the
+Summary.  In C.1.e; maintain records of the 'Core Procurement's' storage
+activity, was changed to maintaining records for 'all storage accounts'.  Is
+this because PG&E would consider Core Procurement to be just another storage
+account?  If so, the original intent is still accomplished.  However,
+although the Parties obviously thought there might at some point be value in
+examining the historical info on the core's use of storage, I don't think
+any of us would feel we ever would have any business examining data on a
+third party's use of their negotiated storage account.
+
+

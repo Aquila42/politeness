@@ -1,0 +1,16 @@
+For those of you who might be working on LM6000 transactions, there is a
+rough cut of a standardized Financial Model and a old Capital Cost
+Configuration Model that you can use for current/future LM6000 projects. Both
+of them are saved as read-only at o:/naes/from_ko_LM6000/control. If you do
+not have access, please compose a Security Request via Lotus Notes.
+
+Please note that there are still work to be done on both models. If you are
+assigned with any LM6000 models, please keep me in the loop, and I can fill
+you in on the model progress and process.
+
+Thanks.
+
+
+Clement Lau
+x3-9446
+

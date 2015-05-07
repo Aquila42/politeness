@@ -1,0 +1,5 @@
+Per our discussions in staff meeting, please find attached below a "cheat
+sheet" for the new account codings.  I suggest you save for future references.
+
+adr
+

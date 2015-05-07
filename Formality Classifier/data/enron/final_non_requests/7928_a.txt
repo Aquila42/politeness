@@ -1,0 +1,6 @@
+Oops.  Didn't mean MWs last time.  But I do think that some cutoff higher
+than 25 kWs is appropriate for net metering purposes.  Where the generator
+is substantially smaller than the customer's off-peak minimum load, there
+does not seem to me to be a need to exclude it from any net metering
+provisions.
+

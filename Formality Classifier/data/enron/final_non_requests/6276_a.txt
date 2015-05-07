@@ -1,0 +1,20 @@
+Attached is the new site map file for auctions. It has been modified to
+reflect the ordering of the global nav and the removal of the ATA, which is
+no longer needed.
+
+The View/Accept Contract screen will contain text cut which is currently in
+the About Storage Services section (I will modify the text file accordingly
+when received from Haakon).
+
+Note that we are planning on using the same template as represented by the
+Market Info. screen in EnronOnline, although there will be a unique set of
+graphics for each of:
+
+1) The Auctions Home Page
+2) All of the EnBank pages (which will share the same graphic treatment, with
+appropriate title amendments).
+
+
+
+Dave
+

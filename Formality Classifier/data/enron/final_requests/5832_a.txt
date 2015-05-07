@@ -1,0 +1,19 @@
+I believe that this is not the GTC but rather the master agreement used for
+bandwidth.  I spoke with Cynthia Harkness, one of the bandwidth lawyers, last
+week.  My impression was that the bandwidth trading documentation was still
+in flux and they were waiting for it to settle down before preparing a GTC.
+
+David Forster
+03/27/2000 04:26 PM
+To: Mark Taylor/HOU/ECT@ECT
+cc: Leonardo Pacheco/HOU/EES@EES, Mario Parra Cardoso/Corp/Enron@Enron
+Subject: New Product Startup: Bandwidth
+
+Mark,
+Attached is a copy of the OTC GTC which the Bandwidth group wishes to use for
+Bandwidth trading on EnronOnline, launching May 1.
+Could you please let me know which of your guys will be looking after
+reviewing/amending this for EnronOnline?
+Thanks,
+Dave
+

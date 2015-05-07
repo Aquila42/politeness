@@ -1,0 +1,15 @@
+My comments pertain to page 2 of the chart under section C.4
+referring to increasing the cashout prices to 75% and 125%.  I recommend a
+few changes.  First the chart makes a reference to increasing Tier II
+cashout prices under the Content Column.  This should be changed to Tier I
+cashout prices consistent with the OFO settlement.  Second, it may be
+appropriate to provide some additional details on this issue in the Change
+to Gas Accord column.  One option is something along the following lines:
+"None.  This change is consistent with the Gas Accord provision which allows
+PG&E to file to revise imbalance charges and cash-out options.  The current
+Tier I cashout prices do not provide an economic disincentive for incurring
+cash-out imbalances in all months as intended in the Gas Accord.  This can
+serve as a factor contributing to pipeline OFOs.  The change to the Tier I
+cash-out prices is consistent with the intent of the Gas Accord, and the
+objective to reduce pipeline OFO's."
+

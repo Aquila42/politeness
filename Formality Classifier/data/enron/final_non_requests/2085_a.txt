@@ -1,0 +1,11 @@
+We were wondering if industrials would need to file "expedited" EWG filings
+in order to take advantage of the ImPower order and the FERC order on Interim
+Reliability measures issued Wed. (see separate email with details of relaxed
+filing requirements for industrials).
+
+Per Dan Watkiss, if an on-site generator is wholly-owned by the parent
+corporation and is not owned by a separate generating company, then there are
+no holding company issues and no EWG filing is needed.  Therefore, this is a
+fact specific issue when we do an on-site generator deal, but in most cases
+EWG filings will not be necessary.
+

@@ -1,0 +1,17 @@
+Beginning this week, we are actively testing the changes to Path Manager to
+receive real-time deal updates from Sitara.  To prepare for this, we would
+like to have a limited group of schedulers from each desk go thru a quick
+walkthru/training of the new features sometime early next week.  This should
+only take about 30 minutes.  Once they are comfortable with the features and
+performance, and once the testing is complete, we would like to migrate this
+to Unify Production either next week or the week after.  This should give us
+an adequate adjustment period prior to the next bid week.
+
+Once it is migrated to Production, we can either roll it out to all
+schedulers or to selected schedulers via security.
+
+Heather, could you please schedule some time with the designated schedulers,
+Scotty, and myself early next week.  A room with a projector would work best.
+
+Thanks, d.n.
+

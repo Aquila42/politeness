@@ -1,0 +1,129 @@
+David,
+Based on the e-mail that I sent out on June 30th (and that I have attached
+below), I was under the presumption that the Enron party to the GTCs would be
+Enron Australia Finance Pty Ltd.  This is because we are dealing with
+Australian weather derivatives and I was presuming (right or wrong) that such
+derivatives would be on the books of the Sydney trading office.  Please let
+me know if this is not the case.
+
+
+David Minns
+07/06/2000 12:35 AM
+To: John Viverito/Corp/Enron@ENRON
+cc: Jonathan Whitehead/AP/Enron@Enron, Nicholas.O'Day@enron.com@ENRON, Susan
+Musch/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Justin
+Timothy/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Raymond
+Yeow/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Mark Taylor@ECT
+
+Subject: Re: EOL GTC's for Weather Derivatives In Australia
+
+John please see attached GTCs for Australian weather. They are essentially
+the same as the example that was forwarded to B&M when they got the brief to
+advise on weather derivatives last month.
+I understand that B & M are having second thoughts on the gambling question
+and are due to come in with an advice on the point.
+There is also a question as to whether the Enron party will be Enron
+Australia Finance Pty. Ltd. or Enron Japan KK. From a tax perspective Susan
+what would you prefer?
+On a related issue what Enron company is on the Passwords Applications and
+ETAs that are being sent out? Although from a legal perspective it does not
+matter it may increase acceptance if it were Enron Japan KK.
+
+From: John Viverito@ENRON on 05-07-2000 05:19 CDT
+To: David Minns/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT
+cc: Jonathan Whitehead/AP/Enron@Enron, Nicholas.O'Day@enron.com
+
+Subject: EOL GTC's for Weather Derivatives In Australia
+
+David-
+
+Please forward an electronic copy of the EOL GTC's for weather derivatives in
+Australia.  Thanks for your assistance.
+
+Cheers,
+
+John
+
+Susan Musch
+06/30/2000 11:30 AM
+To: Jeff Blumenthal@ECT
+cc: Heidi Mason/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, David
+Minns/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Stephen H Douglas@ECT, Paul
+Quilkey/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT (bcc: Susan
+Musch/ENRON_DEVELOPMENT)
+
+Subject: Tax Advice on AUS and JPN CDD and HDD Weather Swaps
+
+Below is a summary of the tax advice that I received from our outside
+advisors in Tokyo and Sydney on the Sydney trading office entering into cash
+settled weather derivative trades with Japanese counterparties:
+
+Japanese Tax Advice
+
+1. Swap, Options and Other Financial Derivative Transactions
+
+Based on the current practice of the Japanese tax authorities, standard
+swaps, options and similar financial transactions with symmetrical payment
+flows should not be subject to withholding tax. However, to the extent that
+Enron transactions involve asymmetrical payments, concern exists that imputed
+interest from the imbedded loan could be subject to interest withholding tax.
+
+2. Consumption Tax (VAT) and Excise Taxes
+
+Although Japan imposes a 5% consumption tax (VAT), financial transactions are
+generally not subject to the consumption tax, so cash settled derivative
+transactions should generally not be subject to consumption tax.  Japan
+imposes various kinds of excise taxes.  These excise taxes generally apply to
+physical importation and domestic sale and delivery of covered products and
+should generally not apply to purely financial derivatives transactions which
+reference commodity prices.
+
+3. Collateral for Derivatives Transactions
+
+If Enron entities will take collateral from Japan-based customers in
+connection with derivative transactions, depending upon the specific
+arrangements, withholding tax liability might arise.  For example, if an
+Enron trading entity takes cash collateral from a Japan-based customer and
+pays interest on it, such interest payments could be subject to local
+withholding tax when paid to the Japanese resident customer.
+
+
+Australian Tax Advice
+
+1. Swap, Options and Other Financial Derivative Transactions
+
+Based on the summaries of the products attached to Justin Timothy,s June 12th
+e-mail to Mario Parra Cardoso and Dale Neuner:
+
+(1) the swap income or deduction should be recognized on a due and payable
+basis (rather than on an accrual basis over the term of the swap), and
+(2) there should not be any interest withholding tax imposed on the swap
+payments because there does not appear to be any linkage between the swap
+payment and "interest" as defined for Australian tax purposes.
+
+Note that there is an Australian tax proposal to impose withholding tax on
+other Australian source income.  Although no details are yet available, it is
+expected that the Australian government will not impose withholding tax where
+the income would constitute "business profits" of any entity in a treaty
+country (such as Japan) which does not have permanent establishment in
+Australia.  Thus, based on the current proposal, it is unlikely that such a
+withholding tax, if enacted, would apply to the swap payments.  However, this
+could change depending upon the rules actually enacted.
+
+2. GST (VAT)
+
+Effective July 1, 2000, the Goods and Services Tax ("GST") will tax at a 10%
+rate the consumption of most goods and services in Australia.  (It does not
+apply to consumption outside of Australia, e.g. exports.)
+
+A swap payment to a Japanese counterparty will be GST-free. This means that
+the Australian trading office would be able to claim refunds on a portion of
+the GST paid on its rents and other expenses.
+
+
+Please let me know if you have any questions or need any additional
+information.
+
+Best regards,
+Susan
+

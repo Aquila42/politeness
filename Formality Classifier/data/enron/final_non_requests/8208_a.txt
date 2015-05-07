@@ -1,0 +1,25 @@
+Everybody
+
+Further to the sell-down of Sutton Bridge it looks like the originators are
+planning, as part of that deal to assign infinity deal number 25556, a
+currency swap we have with Sutton Bridge to EDF/London Electricity.  The
+hedge for this deal is a back to back deal with Natwest, infinity deal number
+25555.
+
+My questions are:
+When this swap was originally entered into there would have been a credit
+reserve taken for it, which will have to be released.  How much is this and
+what is the process?  I am assuming this release of credit will not effect my
+traders P&L.  Can you please confirm this.
+
+What else do we need to look at to complete this assignment?  What are the
+legal implications?
+
+
+The originator is looking to do this fairly quickly and so a quick response
+would be greatly appreciated.
+
+
+Thanks
+Trena
+

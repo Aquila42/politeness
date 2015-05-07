@@ -1,0 +1,14 @@
+Loraine sent an allocation for fuel that is not scheduled.   Her schedule has
+fuel on days where there was no flow:
+Day fuel
+5 40
+8 15
+9 14
+
+Can you let me know if we need to book fuel on this contract and what needs
+to be done on days where we have no flow?
+
+We called Loraine and she told us to contact you since you are aware of this.
+
+Thanks
+

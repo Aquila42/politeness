@@ -1,0 +1,9 @@
+QB   Brunell     JAX
+RB   Smith       DAL
+RB   Rhett        CLE
+WR  Moss       MIN
+WR  Crowell   DET
+WR  Glenn      NE
+K       Mare       MIA
+D      MIA
+

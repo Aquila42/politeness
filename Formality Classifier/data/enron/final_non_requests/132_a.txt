@@ -1,0 +1,16 @@
+Based on the guidance from Stan and Danny yesterday, following are the proposed modifications to the MOU that you requested.  I've also identified a few conforming changes I would recommend.
+
+New Provisions:
+In Sec. 8, at the end of the current text, delete the period and add:  "provided, however, that a new or amended partnership agreement will not be executed until claims against the Partnership arising under the Design and Engineering Agreement and the TAPS Data License Agreement, and any liability associated with the Foothills Special Charge, have been extinguished.  The parties recognize and agree that the substantial delay in construction of the pipeline and changed circumstances since execution of the original Partnership Agreement may warrant use of a substantially different commercial structure for the ANNGTC entity on a going forward basis, including without limitation, a general partnership, a limited partnership, a limited liability company, or a stock corporation.
+
+In Sec. 9, at the end of the current text, add the following:  The parties agree that the development and coordination agreement shall address and resolve to the satisfaction of the ANNGTC partners, the following issues:  (1) downstream rate structure on the Foothills facilities in Canada designed to enhance the economic viability of the ANNGTC facilities; (2) downstream operational rules and procedures on the Foothills facilities in Canada designed to enhance the economic viability of the ANNGTC facilities; (3) operation of gas control and day-to-day operational coordination of the Alaskan and Canadian facilities designed to enhance the economic viability of the ANNGTC facilities.
+
+
+Conforming Changes:
+
+Sec. 1.  The new language added in the Oct. 19 draft says that "the Partnership Agreement would be amended" to allow assignment of interests to a "controlled, creditworthy affiliate."  We ought to put the partners on notice that we believe a new partnership agreement will be necessary given the magnitude of changes that will be required.  Foothills and TCPL basically agreed to this idea at the meeting held at our offices.  Accordingly, I'd delete the phrase "Partnership Agreement would be amended to" and substitute "new or amended partnership agreement will".  Similar changes need to be made throughout the document.
+
+Sec. 3.  What does this new language mean?  The "derivation of initial rates" clause inserted in the first sentence signals to me that the initial writeoff is final and that rejoining partners have no future possibility of recovering any AFUDC or interest, irrespective of future market conditions that would otherwise make such recovery possible.  Am I reading this correctly?  They also dropped PGT's suggestion that we add "to the extent necessary" before the discussion of the writeoff.  What happened to the compromise?
+
+Sec. 5.  Does this sec. now apply to addition of new partners and sale of interests by exiting partners?  That may work just fine but probably needs to be clarified as the language specifically addresses "new" partners without defining what that means.
+

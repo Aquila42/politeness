@@ -1,0 +1,10 @@
+Grant & Vince,
+I am sending you the results of fitting different price process models into NG
+prompt month prices. The fit is quite good for some models.
+We might think of using these mean-reverting jump-diffusion models in our
+Credit Model.
+
+I should examine other contracts behavior (beyond prompt month) as well.
+
+Tanya.
+

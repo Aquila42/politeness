@@ -1,0 +1,22 @@
+<<Loan and Security Agreement>> Your message
+
+To:      Piasio, Stephen
+Subject: Loan and Security Agreement
+Sent:    Tue, 25 Jan 2000 10:20:22 -0500
+
+was delivered to the following recipient(s):
+
+Piasio, Stephen on Tue, 25 Jan 2000 09:24:02 -0500
+MSEXCH:MSExchangeMTA:NAM:EXCHNY18
+
+
+-----
+
+Message-ID: <86256871.0054544C.00@notes.ect.enron.com>
+From: Sara Shackleton <sshackl@ect.enron.com>
+To: "Piasio, Stephen" <sp42054@imcnam.ssmb.com>
+Subject: Loan and Security Agreement
+Date: Tue, 25 Jan 2000 10:20:22 -0500
+X-Mailer: Internet Mail Service (5.5.2650.21)
+X-MS-Embedded-Report:
+

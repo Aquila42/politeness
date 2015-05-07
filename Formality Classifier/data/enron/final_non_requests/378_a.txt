@@ -1,0 +1,2 @@
+Jan already has Transwestern's average historical rates derived from Transwestern's contract rates and actual throughput/MAXDTQ's totaled up to generic contract paths for 2000 and 2001.  I am going to use these numbers to allocate to the pipeline segments in Davis' template.
+

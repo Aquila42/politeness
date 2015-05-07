@@ -1,0 +1,24 @@
+Mike - thanks I got it eventually.
+The only thing I would add at this stage would be under "Daily Management P&L
+and position reporting..."
+"Key positional and valuation data delivered to corporate risk aggregation
+system ("RisktRAC") by a pre - determined time"
+The form and content of that data I outlined in my last tome.
+This will allow us to (amongst other things) get the positions aggregated and
+perform some level of assessment, and allow you folks to kill the spreadsheet
+you currently use to calculate VAR, because RisktRAC has the VAR engine.
+DP
+Mike Jordan
+15/06/2000 13:44
+
+To: John Sherriff/LON/ECT@ECT, Steve W Young/LON/ECT@ECT, Fernley
+Dyson/LON/ECT@ECT, Brent A Price/HOU/ECT@ECT
+cc: Ted Murphy/HOU/ECT@ECT, Sally Beck/HOU/ECT@ECT
+
+Subject: Doorstep meeting - additional action steps
+
+the missing attachment !!!!!!
+
+Please note that these are the controls primarily associated with the Middle
+Office.
+

@@ -1,0 +1,16 @@
+Exploratory BID price information, not for transaction purposes.
+
+A. $35  Call On-Peak hourly 6/1/02-5/31/12:     $2.35kwm
+B. $100  Call On Peak hourly 6/1/02-5/31/12 Summer Only (M,N,Q)  $2.49kwm
+C. $25 Call Off-Peak hourly (M-F Only) 6/1/02-5/31/12:   $0.03kwm
+D. $25 Call Off-Peak hourly 6/1/02-5/31/12:    $0.77kwm
+
+Model Assumptions:
+Enron Bid and ERCOT Bid Curves (5/18/00)
+Bid Vol and Book Vol Smile
+Hourly Calls
+
+
+Garrett
+39335
+

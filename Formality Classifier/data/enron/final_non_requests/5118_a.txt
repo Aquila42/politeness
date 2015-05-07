@@ -1,0 +1,6 @@
+The transport volumes decreased from 25000 to 10000. All 10000 should be on
+contract 012-41991-203.
+
+Thanks,
+Ami
+

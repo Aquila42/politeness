@@ -1,0 +1,7 @@
+It seems to me that in our omnibus forms, there is no rounding rule
+applicable to the return of collateral.  However, credit worksheets often ask
+for the rounding rule to apply to both delivery and return (similar to
+master).  Could you look at the forms at your convenience and let me know if
+I am missing something?  If not, I will ask Mark if he thinks we should
+revise.  Thanks.  Mary
+

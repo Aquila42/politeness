@@ -1,0 +1,24 @@
+Sara,
+1.  Re number of shares - Assume there is one or more Notice Dates for x
+number of shares and a final Termination Date for [1.093,426 - x] shares.  As
+written, would the calculation on the Termination Date be based on (a)
+1,093,426 shares or (b) [1,093,426 - x] shares?  It should be (b), but it
+looks to me like the confirm says (a)?
+Am I mis-reading this?
+2.  Picky point - but if the final date is both a Notice Date and a
+Termination Date, is the calculation only done once?
+Regards
+JAG
+
+Kaye Ellis@ECT
+08/31/00 01:23 PM
+
+To: Kristina Mordaunt/Enron Communications@Enron Communications, AnnMarie
+Tiller/Corp/Enron@ENRON, Kevin Howard/Enron Communications@Enron
+Communications, James Ginty/Enron Communications@Enron Communications, Brent
+Vasconcellos/Corp/Enron@ENRON
+cc: Sara Shackleton/HOU/ECT@ECT
+Subject: Raptor I Avichi
+
+Attached are the final documents:
+

@@ -1,0 +1,2 @@
+Western #27834 is .095 (one-part plus fuel), and Western #27835 is should only be 5,000 not 10,000 and is at a rate of .13 (one-part plus fuel).
+

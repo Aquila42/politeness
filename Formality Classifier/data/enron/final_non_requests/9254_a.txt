@@ -1,0 +1,9 @@
+Vincent,
+
+I got the E-rating and default probabilities for Promigas from the credit
+group.
+Could you plug in these numbers to the loan guarantee model ?
+Promigas is rated as BB.
+
+Zimin
+

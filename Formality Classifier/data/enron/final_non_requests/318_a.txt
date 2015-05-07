@@ -1,0 +1,9 @@
+Dave,
+2 additional power-related items that we need scraped are:
+
+"Hour ahead scheduled generation" from: oasis.caiso.com, System Resources tab, Load and Resource Schedules HA Final report
+"System Load by IOU" from: oasis.caiso.com, System Load tab, System Load by IOU report
+
+I appreciate it.
+Jason
+

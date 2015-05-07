@@ -1,0 +1,39 @@
+Hello everyone,
+
+I have modified the storage valuation model to adopt the deal of synthetic
+storage.
+For the 11 month synthetic storage deal proposed by the
+Peoples Energy , the model gives $0.51/mmBtu.    Thus the People's bid for
+$0.49/mmBtu is in line with the model.
+
+I would be happy to discuss the details for everyone who is interested.   In
+essence, the model allows optimal  injections
+during March-May and optimal withdraws dring Dec-Jan.  The model also
+encourages the storage to be full at the
+end of May, and empty at the end of Jan.
+
+Zimin
+x36388
+
+Enron North America Corp.
+
+From:  Airam Arteaga                           03/20/2000 01:50 PM
+
+
+To: Scott Neal/HOU/ECT@ECT, Phillip K Allen/HOU/ECT@ECT, Jim
+Schwieger/HOU/ECT@ECT, Stinson Gibner/HOU/ECT@ECT, Zimin Lu/HOU/ECT@ECT,
+Farzad Farhangnia/HOU/ECT@ECT, Fletcher J Sturm/HOU/ECT@ECT, Hunter S
+Shively/HOU/ECT@ECT
+cc: Ina Rangel/HOU/ECT@ECT, Kimberly Brown/HOU/ECT@ECT, Barbara
+Lewis/HOU/ECT@ECT
+Subject: Synthetic storage
+
+The below meeting from Farzad Farhangnia, has been rescheduled to Wednesday,
+March 22 at 3:00 pm in EB30C1.
+
+Please call Rain at x.31560, if you have any questions or are unable to
+attend.
+
+Thanks,
+Rain
+

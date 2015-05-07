@@ -1,0 +1,11 @@
+Stacy:
+I spoke with John about this.  I think in the Master Physical language we
+need to do 2 things to the existing language:
+1. Clarify that the exposure that is being subtracted from $50M is ENA's
+Exposure.  The defined term in the ISDA is "Exposure".
+2. Clarify that Counterparty's threshold is zero if as a result of
+subtracting ENA's Exposure from $50M you get a negative number.
+We will go ahead and draft the multi-product guaranty and copy you on the
+draft that we send out.
+
+

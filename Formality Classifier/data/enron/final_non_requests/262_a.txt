@@ -1,0 +1,2 @@
+William,   things look better  but,    George does not have access to the EPMI Hourly Ercot book.       This is the book that he trades primarily.
+

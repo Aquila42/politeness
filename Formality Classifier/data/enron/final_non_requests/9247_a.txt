@@ -1,0 +1,17 @@
+Steve reviewed and offered comments; changes in bold:
+
+The Index for a Determination Period shall be the average of the daily
+settlement prices on the OM London
+Exchange (formerly the OMLX exchange) of the Pulpex Futures Contract for
+Northern Bleached Softwood Kraft
+(the "Futures Contract") for each day on which the OM London Exchange is open
+(a "Trading Day")
+during the Determination Period. The Futures Contract will be the contract
+with the earliest expiration date, except
+on those days that fall within 10 Trading Days before that expiration date,
+in which case the next successive
+Futures Contract price shall be used.
+
+Dale
+3-9746
+

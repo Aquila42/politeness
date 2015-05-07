@@ -1,0 +1,33 @@
+John,
+
+As of Wednesday, we have a resource from Sun Microsystems that is helping  us
+isolate the problems we're having with the UNIX operating system and our
+code.  This resource has requested that we bring on an additional application
+specialist from SUN.  This has been authorized and the additional resource is
+scheduled to be on site next week.  I also have my resources and the UNIX
+administrators working along side the Sun resources.
+
+As an aside, we are also experiencing performance problems with the gas side
+of the business.  I met with Sally Beck's controllers yesterday and we are
+putting a plan in place.  The increased trading volumes have seriously
+impacted our through put and we now have a 'blitz' on to correct the issues.
+
+These problems have not gone unnoticed.  I assure you that IT has been very
+diligent in following through on these problems.  We're investing heavily in
+additional hardware, bringing in contractors and hiring additional resources
+at an average of 5 - 8 per week.  I will keep you posted as we continue to
+enhance our existing systems.
+
+Beth
+
+John J Lavorato@ENRON
+07/06/2000 07:46 PM
+
+To: Beth Perlman/HOU/ECT@ECT, David W Delainey/HOU/ECT@ECT
+cc:
+Subject: Power Port Calc Issues
+
+Beth
+Please respond with a plan to solve these problems.
+
+

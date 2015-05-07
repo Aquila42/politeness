@@ -1,0 +1,6 @@
+Here are the correct parameters to be inserted in Schedule II:
+L = 120.7 miles
+d = 23.23 inches
+Ke = 0.001
+All other parameters are correct.
+

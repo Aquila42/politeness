@@ -1,0 +1,8 @@
+I've made the changes we discussed this afternoon.  I've double checked the
+formulas, but have not yet double checked every number.  Also, to e-mail
+this, I had to convert the table to plain numbers, so we lost the number
+formatting with commas and parentheses around the negatives.  I'll continue
+working on this tomorrow, but it already looks better.
+
+Elizabeth
+

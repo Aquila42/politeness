@@ -1,0 +1,4 @@
+Attached is language to be inserted into a confirmation under an ISDA Master
+Agreement where counterparty has a $0 threshold and credit support is to be
+provided and maintained throughout the term of the Transaction.
+

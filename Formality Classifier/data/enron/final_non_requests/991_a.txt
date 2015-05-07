@@ -1,0 +1,33 @@
+In our continuing effort to expand the Dashboard, the following items have
+been added:
+
+New Categories for your personalized portal window:
+
+New categories have been added for each group in ET&S Business Development
+and Marketing.  This gives each group the ability to post/publish their
+information on the dashboard for viewing.  These new categories are listed
+below:
+
+Storage Services
+Risk Mgmt & Report
+Pricing & Structuring
+North Power Bus Dev
+South Power Bus Dev
+Offshore Bus Dev
+North LDC Team
+Central LDC Team
+Marketing Analysis
+Information Services
+
+To add these new categories to your dashboard simply click on the personalize
+button, highlight the new available category in Pane 1 (left), Pane 2
+(center), or Pane 3 (right) and click on the add button.  This action will
+move this category from available to the bottom of the selected categories.
+If you would like to change the order within a pane you click on the selected
+category then move it up or down using the arrows to the right of the
+selected categories pane.  You then click save to exit the personalize screen
+and return to the dashboard.
+
+If you have any problems or questions please contact Bobby Mason @ (713)
+853-5196 or Martha Janousek @ (713) 853-7275.
+

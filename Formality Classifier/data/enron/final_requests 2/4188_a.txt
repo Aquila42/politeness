@@ -1,0 +1,26 @@
+Jeff -- here is a rough outline of the activities we will be doing in CA.
+
+ECI porposes to:
+
+* provide managed virtual private line service using DWDM technology over our
+own proprietary network.  This is primarily an interstate service, but some
+segments may be marketed and sold between points in CA.
+
+* acquire OC-48 capacity on other networks and "mux" them down into DS-3,
+OC-3 and OC-12 increments and then re-sold to other carriers and large
+enterprise users.  Some of this activity will be interstate and some
+intrastate but interLATA.
+
+* possibly buy,lease, or build local loop capacity to connect metro
+points-of-presence, probably in LA and San Jose.  These facilities would
+carry mostly interstate/international traffic, but add/drop within the city
+and LATA.
+
+QUESTIONS:
+
+- Do we need a CPUC Certificate for these activities?
+- Is there more benefit to common carriage vs. private?
+- Will ECI need to tariff services?
+
+Thanks for your help and interest.
+

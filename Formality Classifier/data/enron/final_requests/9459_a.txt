@@ -1,0 +1,37 @@
+Daren...I talked to Cynthia in contracts and she said that CES deals cannot
+be extended and that a new contract has to be set up.  How do you want to
+handle it?
+
+Daren J Farmer@ECT
+06/28/2000 04:17 PM
+To: Ami Chokshi/Corp/Enron@ENRON, Megan Parker/Corp/Enron@ENRON, O'Neal D
+Winfree/HOU/ECT@ECT, Nelson Ferries/Corp/Enron@ENRON, Hillary
+Mack/Corp/Enron@Enron
+cc:
+
+Subject: Re: Republic Royalty 5/00
+
+I have rolled # 143559 through July 2000 to cover the purchase from
+Republic.  We sell this gas to Duke Energy Field Services (#143558 for Jan -
+Apr,  CES-Duke Energy Field Services, Inc ).  The counterparty on this deal
+has been suspeneded, so I created # 316727 under the counterparty of Duke
+Energy Field Services Marketing, LLC.
+
+Hillary - Please extend the CES-Duke counterparty or attach the correct Duke
+counterparty to this deal.
+
+If you have any questions, let me know.
+
+D
+
+From:  Ami Chokshi @ ENRON                           06/28/2000 10:45 AM
+
+
+To: Megan Parker/Corp/Enron@ENRON, O'Neal D Winfree/HOU/ECT@ECT
+cc: Nelson Ferries/Corp/Enron@ENRON, Daren J Farmer/HOU/ECT@ECT
+Subject: Republic Royalty 5/00
+
+This deal was terminated by Nelson Ferries.
+
+Ami
+

@@ -1,0 +1,4 @@
+Susan:  I just want to be certain that we are clear when we use the term "logistics".  We have traditionally called our gas scheduling function our logistics function, while I believe the UBS reference to logistics is more generic and relates to a number of functions that support trading activities.  The gas schedulers have quite a bit of external contact, both with our customers and with our gas pipelines on which we reply for transport of our physical commodity.
+
+Bob may be okay with no title for non-officers.  With the degree of external contact that his team has, does it make sense for non-officers to have something on their cards that is a little less generic than "Operations"?  Maybe "Gas Scheduling Operations" or "Operations - Gas Logistics" ?  --Sally
+

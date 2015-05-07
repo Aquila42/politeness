@@ -1,0 +1,7 @@
+Attached are the final results of project quick hire. The project resulted in
+the transferring of 51 Enron employees into EBS. Another 12 declined offers
+to join EBS. The 51 transfers came from:
+APACHI EES-IT CALME ENA AZURIX EECC CORP SA EES
+14          13   10  4                  3            2
+2            2                1
+

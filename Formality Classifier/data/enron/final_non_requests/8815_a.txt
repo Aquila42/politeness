@@ -1,0 +1,22 @@
+The latest changes to the Interactive Open Season application have been moved
+into production and are ready for testing.  These modifications include:
+
+Displaying the actual bids along with the evaluated bids on each of the
+detail lines.  This will allow shippers to see the actual bid rate for all
+bids greater than max rate.
+Calculating the winning bids based on evaluated bid and term only (ignore
+time entered).  A " * " in the first column now means that the bid is a
+potential winner, not an actual winner.
+Forcing shippers to bid on the full volume of the package.
+
+The modifications do not include:
+
+Allowing users to supersede any of their own bids greater than or equal to
+max rate.  Because this modification introduces a high risk factor, it will
+be made after Fiday's IOS.
+
+
+Because some of these modifications affect the way in which bids are ranked,
+thorough testing by the Marketing team should be completed before any
+shippers are allowed to enter the system.
+

@@ -1,0 +1,27 @@
+We had been in discussions with SCE a few months back to remove the QF
+requirement in their Rule 21.  At the time they said they "could" not
+because the construct of their standby rate did not provide adequately
+provide recovery for standby service (particularly for non-demand related
+tariff schedules).  The rejection was were we left the subject with SCE.
+Their move to submit an advice letter on the subject comes as a surprise
+to me given their prior response.
+
+We will not be protesting with the presumption that the standby tariff
+would not prejudice future work on standby tariff rate design.  Generally
+speaking, the QF requirement is ridiculous and should be removed
+immediately.  For this reason, we are supportive of it happening now
+through this advice filing.  I do not want to see the prohibition against
+non-QF facilities for up to another 9 months (rough estimate based on
+time-frame articulated in the DG order).
+
+
+
+Jeff_Dasovich@enron.com writes:
+
+>
+
+shouldn't this be the subject of the upcoming cec workshops?  isn't the
+timing
+of the filing, well, awkward?  wouldn't it be better if they withdrew and
+brought as a proposal to the workshops?
+

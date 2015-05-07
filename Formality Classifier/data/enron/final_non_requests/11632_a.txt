@@ -1,0 +1,13 @@
+Today Enron and EDEN (an AES Co.) signed the ISDA Master Agreement and
+immediately after executed the first financial power swap transaction with an
+LDC.
+
+Terms & Conditions:
+Volume: 66 MWh (24 hours/day, 7 days /week)
+Term: 1 year, starting February 1st 2000
+Fixed Price: US$20.90/MWh
+Floating Price Payer: Enron North America
+Fixed Price Payer: Eden S.A.
+
+Thanks, Rolo
+

@@ -1,0 +1,214 @@
+Raymond,
+Thank you for your note.  It would be great if you could be ready to roll-out
+Korean Weather in the near future.   It would be tough to sell Weather
+Derivatives in Korea, but the early move can be positive for us especially
+because K-Weather, a local weather forecasting company, is also studying
+Weather Derivatives for potential launch.  Regarding the questions you asked,
+please find below my answers in blue.  Thanks.
+
+
+Raymond Yeow@ENRON_DEVELOPMENT
+08/25/2000 04:58 PM
+To: Matthias Lee/SIN/ECT@ECT@ENRON
+cc: Jae-Moo Lee/Corp/Enron@ENRON, Christopher B
+Hunt/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Joseph P Hirl/AP/ENRON@ENRON, David
+Forster/Corp/Enron@Enron, John Ambler/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT,
+Mike Dahlke/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Bruce
+Lundstrom/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Alan
+Aronowitz/HOU/ECT@ECT@ENRON, Mike Brown/ENRON@Gateway@ENRON, Justin
+Timothy/ENRON_DEVELOPMENT, Paul Quilkey/ENRON_DEVELOPMENT, John
+Viverito/Corp/Enron@Enron, Rousseau Anai/AP/Enron@Enron, John
+Chismar/SIN/ECT@ECT@ENRON, Victor Santos/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT,
+Li Yin Lim/SIN/ECT@ECT@ENRON, Mark Taylor/HOU/ECT@ECT@ENRON, David
+Minns/ENRON_DEVELOPMENT, Jonathan Whitehead/AP/Enron@Enron, Michelle
+Lee/Corp/Enron@Enron, Ann Brown/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Matthias
+Lee/SIN/ECT@ECT@ENRON, Angeline Poon/SIN/ECT@ECT@ENRON, Paul
+Smith/ENRON_DEVELOPMENT, Christian Werner/ENRON_DEVELOPMENT, Allan
+Ford/ENRON_DEVELOPMENT
+
+Subject: Comments & questions re: EOL Korea
+
+To Jae- Moo,
+1. Impressive P'point presentation indeed.
+
+2. Friday Sep 1 - 800am TYO time is good for Australia, I will be attending
+is there anything that i need to arrange at our end ??
+
+3. After the successful roll-out of W for Japan & Oz thus qtr,
+as discussed - we are ready to roll-out Korean W say in Mid October ???
+Your email & presenatation thus arrived at a very good time.
+
+4. Just some questions -
+You may answer in the conference call or by email -- your choice
+
+(a) why has W derivatives been singled out by FSC for potential review
+when there is no regulation of eg LPG , or plastics swaps & fwds  ?  (pg 11
+of presentation)
+
+We are just talking about the theoretical possibility of FSC's (Financial
+Supervisory Commission) review of Weather Derivatives because of the novelty
+in Korea although, according to the Kim & Chang report, there are currently
+no laws or regulations in Korea that regulate marketing of OTC derivative
+transactions through the internet or otherwise.  When we talked to FSC a
+couple of months ago, they confirmed that there is no law or regulation
+restricting Weather Derivatives in Korea.  FSC did not indicate any intention
+to review Weather Derivatives for regulation, either.   In addition,
+according to the Kim & Chang report, Weather Derivatives would not be
+considered to be an insurance contract subject to Korean insurance
+regulations.  Kim & Chang also believes that Weather Derivatives should not
+be considered gambling or wagering but a legitimate method of hedging risks
+relating to weather.
+
+(b) How necessary are the meetings with ( pg 5 of presentation)
+".. Bank of Korea (BOK)/ Ministry of Finance & Economy (MOFE) for
+classification of weather derivatives as commodity derivatives.." ?
+Is this meeting to meet
+"...except for Foreign Exchange Transaction Regulations (FETR) in case of
+foreign currency trades
+Classification of weather derivatives as commodity or financial derivatives
+under FETR needs to be resolved..."(pg 15 of presentation)
+
+Can we just do it first with Enron Korea as the counterparty ? If so , if
+Korean coy transacts with Enron Korea,
+there should be no problem in remitting funds wholly within Korea !
+Also we intend to offer product in Won only so no FX involved at all .
+
+According to the Kim & Chang report,   FETR is the only regulation that
+regulates OTC derivative transactions, and FETR is applicable only when FX is
+involved in a transaction or when a transaction is between a Korean resident
+and a non-resident.  Thus, as far as we understand based on the Kim & Chang
+report and conversations with FSC and other local lawyers, if a transaction
+(Weather derivative or other commodity derivative) is between residents in
+Korea (e.g., a Korean customer and Enron Korea) in Korean currency (Won),
+neither FETR nor any other regulations are applicable.  No report or approval
+would be required.
+
+(c)
+pg 18 of presentation
+'...All other EnronOnline products with the exception of bandwidth and
+emission allowances are classified as commodity derivatives in Korea..."
+Why is it bandwidth and emission are classified differently?
+Will not Weather fall under same category ?
+
+There is no classification or definition of bandwidth, emission or weather
+derivative products in Korea since Korea has no experience in such products
+or concepts.  Please refer to my previous e-mail to Matt for definitions of
+derivative transactions (commodity and financial).
+
+"...Commodity derivatives require a prior reporting to the Bank of Korea for
+each trade .."
+Is this only relevant if product is not in Won but foreign currency ?
+
+The reporting requirement is relevant under the FETR only which is applied
+for a transaction with FX involved or between a resident and non-resident in
+Korea.
+
+
+5. pg 28 of presentation
+Note that Dr Christian Werner - Sydney office will be the person for
+"Data system   For weather derivative products, arrange with a weather
+forecasting company for the weather data feed - timing depends on the
+location"
+
+We will provide relevant information for Christian.
+
+We will be able to assist with (if reqd, see points 4b & c above)  Thanks. It
+would be necessary only when we decide to deal with FETR.
+"...  For weather derivatives, arrange presentation meetings with BOK/MOFE
+for classification of weather derivatives as commodity derivatives
+_ May require longer time for their decision making
+Korea Office, Mike Dahlke, EOL Weather specialist (?)"
+
+
+Best wishes
+Raymond
+
+Matthias Lee@ECT
+08/24/2000 09:22 PM
+To: Jae-Moo Lee/Corp/Enron@ENRON
+cc: Christopher B Hunt/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT@ENRON, Joseph P
+Hirl/AP/ENRON@ENRON, David Forster/Corp/Enron@Enron, John
+Ambler/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT@ENRON, Mike
+Dahlke/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT@ENRON, Bruce
+Lundstrom/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT@ENRON, Alan
+Aronowitz/HOU/ECT@ECT, Mike Brown/ENRON@Gateway@ENRON, Justin
+Timothy/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT@ENRON, Paul
+Quilkey/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT@ENRON, Raymond
+Yeow/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT@ENRON, John
+Viverito/Corp/Enron@Enron, Rousseau Anai/AP/Enron@Enron, John
+Chismar/SIN/ECT@ECT, Victor Santos/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT@ENRON,
+Li Yin Lim/SIN/ECT@ECT, Mark Taylor/HOU/ECT@ECT, David
+Minns/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT@ENRON, Jonathan
+Whitehead/AP/Enron@Enron, Michelle Lee/Corp/Enron@Enron, Ann
+Brown/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT@ENRON, Matthias Lee/SIN/ECT@ECT,
+Angeline Poon/SIN/ECT@ECT
+
+Subject: Re: EOL Korea
+
+Jae-Moo
+On the section of Regulatory/Legal Environment, it may be useful to note:
+1. There is no official rule or regulation that ex post facto reporting for
+Commodity Derivatives are acceptable to the Bank of Korea, although your and
+Korean external lawyer's (Kim & Chang) informal verbal enquiries with the
+Bank of Korea have suggested they have accepted some  7 or 8 reports since
+April last year (all from Hyundai Oil).
+2. The Bank of Korea take up to two weeks to review the reports and, as Kim &
+Chang has advised, there remains a possibility that the Bank of Korea may
+reject the report, although they were not able to advise the grounds on which
+a report may be rejected.
+3. Although, a foreign counterparty need not file a report or seek approval,
+the Korean counterparty must still do so for the benefit and interest of the
+foreign counterparty. Kim & Chang advised that where reporting or approval is
+required but is not made or obtained, the Korean counterparty would not be
+able to remit its payments under the transaction. This would clearly impact
+on the settlement of the transaction, in particular shorter term deals since
+reporting and approval may take several weeks.
+4. The Supreme Court of Korea has ruled that a foreign exchange authorization
+that was originally required should be obtained in order for a foreign party
+to execute any judgment against the Korean party and remit the proceeds.
+Regards
+Matt
+
+Jae-Moo Lee@ENRON
+08/24/2000 04:58 PM
+To: Christopher B Hunt/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Joseph P
+Hirl/AP/ENRON@ENRON, David Forster/Corp/Enron@Enron, John
+Ambler/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Mike
+Dahlke/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Bruce
+Lundstrom/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Alan Aronowitz/HOU/ECT@ECT,
+Mike Brown/ENRON@Gateway, Justin Timothy/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT,
+Paul Quilkey/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Raymond
+Yeow/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, John Viverito/Corp/Enron@Enron,
+Rousseau Anai/AP/Enron@Enron, John Chismar/SIN/ECT@ECT, Victor
+Santos/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Li Yin Lim/SIN/ECT@ECT, Mark
+Taylor/HOU/ECT@ECT, Matthias Lee/SIN/ECT@ECT, David
+Minns/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Jonathan Whitehead/AP/Enron@Enron
+cc: Michelle Lee/Corp/Enron@Enron, Ann
+Brown/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT
+
+Subject: EOL Korea
+
+As many of you are aware, over the past few months we have been investigating
+whether or not it would make sense to seriously consider an EOL launch in
+Korea from a market, regulatory and legal perspective.  The primary interest
+has been on reviewing whether or not we could launch existing products in
+Korea (e.g., products already handled by Singapore EOL) as well as new
+products (e.g., Seoul weather).
+
+This initial work was directed primarily by the Korea team working within the
+APACHI group.  If a launch is to progress much further from this point,
+however, substantial attention by the EOL team would be required.  To
+facilitate this, the attached presentation summarizes our primary findings to
+date and some of our thoughts.  We would appreciate your taking a look at the
+attached document.
+
+We would like to arrange a conference call for next Thursday (Aug. 31st) at
+6:00 pm by Houston time (Friday at 8:00 am by Tokyo time) to discuss the
+attached document and to solicit thoughts as to next steps.  Please let me
+know whether you will be able to join this call or, if you have a conflict,
+an alternative time.  Your participation will be greatly appreciated.
+
+Best regards,
+
+Jae-Moo
+

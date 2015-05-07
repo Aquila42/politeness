@@ -1,0 +1,27 @@
+Amy:
+
+The timing of this issue is perfect!  I've been working with Sara Shackleton
+this week to hammer down a number of issues relating to financial power and
+the related indices.  We have revised the index language for PJM, NE ISO and
+NYISO, and I will provide the revised language to you and Melissa in the next
+couple of days.  The revised language for the PJM index is set out below:
+
+The average of the hourly prices as published by PJM Interconnection, LLC
+(&PJM8) on PJM,s official web site currently located at
+ftp://www.pjm.com/pub/account/lmp/index.html, or any successor thereto, under
+the headings &PJM ) Locational Marginal Pricing Files; Western Hub8 for
+electricity delivered during On-Peak Hours during the applicable
+Determination Period.
+
+Let your contact at Edison Mission know that we are correcting all PJM index
+language per the above  and make sure she doesn't have any objections.  Let
+me know if she does object to the language.
+
+On Monday or Tuesday, I'm going to get you and Melissa all of the final
+indices, as well as some additional provisions to add to all index deals.
+After I get you the new language, I would like to correct all confirmations
+for deals yet to flow to replace the old index language with the revised
+language and to add the new riders.
+
+Leslie
+

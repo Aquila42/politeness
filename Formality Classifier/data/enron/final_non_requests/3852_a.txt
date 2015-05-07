@@ -1,0 +1,21 @@
+hey, i changed your speadsheet a little.
+
+thanks
+joann
+
+Joan Veselack
+05/01/2000 10:04 AM
+To: Joann Collins/Corp/Enron@ENRON, Robert Allwein/HOU/ECT@ECT
+cc: vlamadr@enron.com, Chris Germany/HOU/ECT@ECT
+
+Subject: STOI - Overinjection Spreadsheet
+
+Decided to formalize this process. Attached is a very simple spreadsheet that
+the TCO team can use to document Gas Control's approval for overinjections.
+You are welcome to modify it.
+
+It's purpose is to keep track of who requested, who approved, and volumes for
+overinjections.
+
+Thanks
+

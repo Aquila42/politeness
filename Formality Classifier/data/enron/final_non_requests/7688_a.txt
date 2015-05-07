@@ -1,0 +1,16 @@
+I have added directories with content:
+
+\Capital
+\Commercial Support Welcome
+\EOL
+\Planning
+\Integration\Integration Costs
+\Integration\Processes
+\Integration\Systems Analysis
+
+and some files to the directory:
+\Background Info
+
+Regards,
+Richard
+

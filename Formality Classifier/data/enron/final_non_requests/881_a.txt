@@ -1,0 +1,6 @@
+As info.
+We are working to keep the bid / ask spreads as narrow as possible for each
+of our EOL markets - domestic and international coal, vessel freights and
+emissions.  Volumes for coal and emissions are already up, and freight should
+be a rapidly developing market.
+

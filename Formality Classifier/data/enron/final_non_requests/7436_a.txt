@@ -1,0 +1,23 @@
+The question is; is it actually part of the legal name for the counterparty?
+If it's part of the legal name, fine, if it's not, we cannot be incorporating
+the state as part of the name in Global Counterparty, since this will not be
+the actual legal name.  If the problem is that people are making assumptions
+when they see a city or county name, then they will have to investigate a
+little further to see if this is really the city or county they want.  The
+main problem is that documents are generated from Global Counterparty using
+the legal name, such as invoices, payments and confirmations, and there could
+be legal implications if we do not have the proper name on the document.
+
+
+From:  Samuel Schott                           08/11/2000 09:05 AM
+
+
+To: Jason Moore/HOU/ECT@ECT
+cc:
+Subject: Counterparty Names-Cities and Counties
+
+What do think about putting the state in parenthesis after a city's
+counterparty name??
+
+SL
+

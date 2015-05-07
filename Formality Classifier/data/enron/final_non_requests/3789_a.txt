@@ -1,0 +1,9 @@
+Thank you for the summary.  ORA's proposed language under the cost
+recovery section:
+
+Cost Recovery
+-  Revise Section B.3 (now B.4) to eliminate the last sentence and
+add the following "While PG&E may seek recovery of these costs, other
+parties to this settlement do not necessarily support PG&E's right to
+recover any additional costs."
+

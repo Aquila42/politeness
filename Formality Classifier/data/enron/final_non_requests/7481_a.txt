@@ -1,0 +1,17 @@
+Jeff,
+
+Following are the categories of "telephony" services that should cover "all
+the bases" in CA.
+
+Intrastate private lines
+local loop
+data transport services
+lambdas aka  AFTS
+IP transit
+*simple voice re-sale
+
+* If we can get it - because it won't be to long before this included in an
+intermediation deal
+
+Sue and Scott, can you think of anything else?
+

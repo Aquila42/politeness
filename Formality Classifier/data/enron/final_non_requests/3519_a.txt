@@ -1,0 +1,25 @@
+Here are my comments:
+Assignment Language:
+in (i) "WestLB" should be changed to "Purchaser"
+in (ii) - although this is a business point I think it is important to
+question: why should we provide credit support to the JV/partnership/llc when
+we are required to keep a min. 19.5% interest?  This is not a GE requirement
+and it is a doubling up of Enron-type support which will make the venture
+much more expensive to finance.
+Purchase Agreement:
+Def. of Business Day:  let's add New York since this is where WestLB funds
+from.
+2.1(B):  It should be "Agent's" person to approve change orders, not
+"Purchaser's"
+2.2:  "Purchaser" should be used rather than "WestLB" since it is not as
+limiting.
+7.1:  Why is the Effective Date backdated to the date of the first option
+agreement execution date?
+Exhibit N - Purchase Amount Reconciliation:  The total amount of the three
+purchase amounts is $78M less than the same amounts detailed in the latest
+Option Agreement.  I'd like to understand why this is, especially in light of
+the Effective Date in 7.1, to insure that AA won't determine that the Option
+Premiums paid were somehow a deposit or credit toward the purchase price of
+the transformers.
+
+

@@ -1,0 +1,25 @@
+I see what you mean - the GTC's get attached to the confirms when they are
+sent out so the confirm desk needs to know which ones to attach if they are
+different.
+
+To: Mark - ECT Legal Taylor/HOU/ECT@ECT
+cc: Louise Kitchen/LON/ECT@ECT, David Port/LON/ECT@ECT
+Subject: Re: Confirms
+
+That is correct,  but the possible GTC amendments will be part of the daily
+confirmation process.
+
+Dave
+
+To: David G Mally/HOU/ECT@ECT
+cc: Louise Kitchen/LON/ECT@ECT, David Port/LON/ECT@ECT
+Subject: Re: Confirms
+
+There will need to be confirmation templates for the internet-generated
+transactions that are slightly different from templates now used for
+telephone-generated transactions - Legal will have to give the confirm desk
+the necessary language.  This is not the GTC issue you and I discussed the
+other day - rather, I think the question is How will the internet-generated
+trade information reach the confirm desk and how will they know to use the
+internet trading language in the confirm they generate?
+

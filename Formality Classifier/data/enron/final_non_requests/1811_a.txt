@@ -1,0 +1,8 @@
+As you know, the ETA has to address Trade one-to-many with Enron and Match
+one-to-many with Enron.  We also need a separate Trade GTC one-to-many with
+Enron and Separate Match GTC one-to-many with Enron.  We also need a single
+Password application that addresses Match and Trade, both one-to-many.
+As soon as these drafts are complete, I would like to read them!
+Thanks.
+GP
+

@@ -1,0 +1,8 @@
+There will need to be confirmation templates for the internet-generated
+transactions that are slightly different from templates now used for
+telephone-generated transactions - Legal will have to give the confirm desk
+the necessary language.  This is not the GTC issue you and I discussed the
+other day - rather, I think the question is How will the internet-generated
+trade information reach the confirm desk and how will they know to use the
+internet trading language in the confirm they generate?
+

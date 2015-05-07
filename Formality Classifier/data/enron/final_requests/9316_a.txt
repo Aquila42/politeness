@@ -1,0 +1,29 @@
+As you know, Enron does not own transmission facilities and therefore is not
+subject to the FERC code of conduct rules with respect to functional
+separation of generation and transmission.
+
+However, when Enron established 3 control areas in the SERC region in
+June-July 1999, a separate legal entity (Enron SE Corp) was created to
+provide the reliability/control area operation function for Enron's Southeast
+generation assets.  Although functional separation is not required by FERC,
+Enron chose to do so because marketing/trading is indeed separate from the
+control area reliability function at Enron.  Additionally, Enron SE Corp. (as
+a certified control area) is entitled to ISN and IDC data that is subject to
+NERC confidentiality provisions and cannot be disclosed and/or utilized by
+the merchant function.
+
+In order to protect the IDC and ISN information consistent with the NERC
+Confidentiality Agreement (for ISN data) and the OATI/NERC Non-Disclosure
+Agreement (for IDC data), only employees within the control area reliability
+function have access to the data.   To highlight the importance of this
+confidential information, verbal and written correspondence has been provided
+by Enron's legal and regulatory counsel to each control area employee with
+specific instructions to keep all required information confidential as set
+forth in the NERC Confidentiality Agreement.
+
+I hope this adequately answers your question.  If you have any additional
+questions, please feel free to call me at 713-853-5035.
+
+Thanks,
+Kevin Presto
+

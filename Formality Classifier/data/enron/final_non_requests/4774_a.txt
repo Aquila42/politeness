@@ -1,0 +1,17 @@
+Mark,
+
+The first time that you log into the web site you will see this message
+regarding certificates.  If you were to select continue than you should see
+an option to "accept forever" than you would not see this anymore.
+Nonetheless, this is a completely normal message from Netscape.
+
+
+
+
+
+Please feel free to call if you have any further questions.
+
+Regards,
+
+Noel
+

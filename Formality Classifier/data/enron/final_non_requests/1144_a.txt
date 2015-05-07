@@ -1,0 +1,40 @@
+The IT Contract group has been involved in reviewing documents for Trading
+Edge's Bond Link online bond trading site.  George Weber, who has since moved
+into another area, discussed various issues with Trading Edge early this
+year.  Laine Borgman, a contract administrator in the IT Contracts group, has
+become involved in the Trading Edge review during the past week.  Attached
+below are Trading Edge agreements and their responses to issues raised by IT
+Contracts.
+The primary issues Laine and I discussed yesterday are as follows:
+Jurisdiction:
+Our preference is Texas, but we would accept New York.  Trading Edge's
+response is unclear, although I believe they will readily agree to New York.
+Indemnification (similar to issues with Buy Side Direct):
+Agreement assigns no liability to 3rd parties which the agreement describes
+as "providers of software".  As Trading Edge is the nominal counterparty for
+all trades, this may be acceptable if the agreement held Trading Edge liable
+for settling trades.  However, I do not see where section 11 addresses
+Trading Edge's liability for trades.
+We would also like assurances / liability regarding the accuracy of order and
+trade information.
+Limits of Liability:
+Review language in both the Access and TIPs agreements (per Trading Edge,
+they will not agree to modify the TIPs Agreement, which is dictated by a 3rd
+party).
+Assignment:
+Trading Edge's agreement does not allow Enron to assign the agreement to
+other parties.  Initially, only EnronCredit.com personnel in Houston and
+possibly London would use Trading Edge's site, so this would not be an issue
+initially.  Although we would prefer that the ability to assign be included,
+this issue could be addressed later as needed.
+Electronic Mail (#18):
+We do not want to accept email communication in the event of a lawsuit.  From
+the tone of their previous response, I believe they will agree to include
+lawsuits in the definition of extraordinary matters, for which email will not
+be employed.
+Sara, how would you suggest we proceed with the Trading Edge review ?  I will
+speak with Sheila Glover regarding the involvement of Credit and Risk Control
+in our request to utilize Trading Edge's trading platform.
+Thanks.
+
+

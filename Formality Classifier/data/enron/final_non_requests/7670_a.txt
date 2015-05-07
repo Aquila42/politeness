@@ -1,0 +1,6 @@
+I made some changes to the language below assuming use for an ISDA.  My only
+problem is that I am not certain that the IPE description is what we use
+(I'll defer to your verification) but it appears each monthly calculation
+incorporates pricing from three different delivery month contracts.  Sara
+P.S.  I would like a copy of the Platt's marketwire if you can locate
+

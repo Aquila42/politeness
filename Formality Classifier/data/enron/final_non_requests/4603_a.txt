@@ -1,0 +1,7 @@
+Name	Cost	Status	Implementation Comments
+Application/Database
+SITARA - Production US...
+SITARA - SCI/CPR...
+Rejected
+Pending		User already has access to Sitara.
+

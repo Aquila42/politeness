@@ -1,0 +1,4 @@
+Mac,
+
+Check out this spreadsheet.  It compares my 1099, the realized g/l online, and what downloaded into turbotax.  The main differences seem to be related to the open short DIA position and the CPN options.  I can't understand why the turbo tax download is so different from the other two sources.
+

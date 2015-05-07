@@ -1,0 +1,27 @@
+--
+
+Welcome to the ba248d-1 mailing list!
+
+Please save this message for future reference.  Thank you.
+
+If you ever want to remove yourself from this mailing list,
+you can send mail to <Majordomo@haas.berkeley.edu> with the following
+command in the body of your email message:
+
+unsubscribe ba248d-1
+
+or from another account, besides dasovich@haas.berkeley.edu:
+
+unsubscribe ba248d-1 dasovich@haas.berkeley.edu
+
+If you ever need to get in contact with the owner of the list,
+(if you have trouble unsubscribing, or have questions about the
+list itself) send email to <owner-ba248d-1@haas.berkeley.edu> .
+This is the general rule for most mailing lists when you need
+to contact a human.
+
+Here's the general information for the list you've subscribed to,
+in case you don't already have it:
+
+Telecom and E-business
+

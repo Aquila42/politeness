@@ -1,0 +1,21 @@
+David:
+Yes, the UCC (Article 2) would be the basis for not requiring a signed
+confirmation from the counterparty receiving the confirmation if the physical
+product is a "good" under the UCC. This I think answers your second question
+also.
+
+
+gilbergd@sullcrom.com
+07/20/2000 10:38 PM
+
+To: alan.aronowitz@enron.com, mark.taylor@enron.com
+cc: LINDAUERE@sullcrom.com
+Subject: Electronic Signatures
+
+Thanks for sending the chart.  I will send you the list of questions we
+discussed tomorrow.  In the interim, I had a couple of questions on the
+chart:  On the first line (physical, no master), is the basis for not
+requriing the confirm to be signed the UCC?  Also, what is meant by "unless
+commodity not 'good'"?
+Thanks.
+

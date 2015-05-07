@@ -1,0 +1,4 @@
+Maria and John,
+
+In the LkpCA_BranchGroupDirectionCodes table, there's a field called "SignConvention" that i assume is used to calculate the net flow over an intertie when values are given for both direction, as is the case in the BranchGroupActualFlows table.  I intend to use it for this purpose
+

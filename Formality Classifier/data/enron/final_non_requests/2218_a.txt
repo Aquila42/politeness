@@ -1,0 +1,9 @@
+Attached is a detailed report on the deals that GPG Bus Dev is currently
+looking at, and a historic log of prior activities.  It is very much a "work
+in progress", and will be updated weekly.  I plan to share it with anyone
+within GPG that would find it useful probably on a monthly basis.
+
+Your comments are welcome.
+
+JNG
+

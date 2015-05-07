@@ -1,0 +1,12 @@
+Greg, I think this is down to 2 material issues: Carl Peterson ( AIG ) agrees that for the most part the ISDA and ETA are completed. Next meeting is at 4:30 today to try to eliminte additional minor changes.  Here are the two items that may not be so easy to move off of.
+
+1.  AIG wants inserted into the document the provision that mandates that based on the calculation of the requesting party margin will be provided for the amount requested. If there is a material delta between there amount and ours, you are forced to go with the requesting parties calc and then settle through disputed resolution provisions in the ISDA. The problem with this is let's say they ask for 20 MM and we believe the marks warrant 5MM, we would be required to post the 20MM.. We immediatly must post their amount and if we don't we are in default... To take it further, the system could be gamed because we could arbitrarily put in any number i.e.. 40 MM and they would be required to post..
+
+We believe normal convention should be the average of the marks and then go to disputed resolution provisions and that way both are incented to pick up the phone and resolve. There request is to binary and unreasonable because anytime they or tell us their number, we would be forced to post.. I know it is extreme but reasonableness should prevail here.
+
+2.  We want a cooling off period in the event of involuntary bankruptcy such 30 days. and they want 5 days.. we suggested 15, they said no.. it is 5 or no deal. Basically it means that if someone pursued a bankruptcy action against UBS and did not remedy this within 5 days, then we would automatically terminate.. Fransisco( our lawyer ) is discussing with Stamford as we speak.
+
+Please call if you have any question.
+
+regards, BT
+

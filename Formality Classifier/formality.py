@@ -181,6 +181,7 @@ def main():
     classifier = f.get_classifier() #trained classifier
     print classifier.show_most_informative_features()
     print "Training done\n"
+    '''
     path = os.path.join(f.curdir, "data/enron/test answers")
     formal = []
     for line in open(path+"/formal.txt","r"):
@@ -188,12 +189,15 @@ def main():
     informal = []
     for line in open(path+"/informal.txt","r"):
         informal.append(line.strip())
-    path = os.path.join(f.curdir, "data/enron/test set")
+    '''
+    path = os.path.join(f.curdir, "data/enron/final_non_requests")
         #print "Informal"
+    '''
     correct_formal = 0
     correct_informal = 0
     false_formal = 0
     false_informal = 0
+    '''
     for filename in os.listdir(path):
         if filename == ".DS_Store":
             continue
@@ -202,9 +206,10 @@ def main():
         msg = ""
         for line in open(file,'r'):
             msg = msg + " " + line
-        featureset = f.extract_features(msg)
+        featureset = f.extract_features(msg.strip())
         predicted_label = classifier.classify(featureset)
         print filename,predicted_label #naivebayes object
+        '''
         if predicted_label == "formal":
             if filename in formal:
                 correct_formal += 1
@@ -224,6 +229,7 @@ def main():
     accuracy = (float)(correct_formal+correct_informal)/(len(formal)+len(informal))
     print accuracy*100,"%"
     print correct_formal,false_formal,correct_informal,false_informal
+    '''
 
 if __name__ == "__main__":
     main()

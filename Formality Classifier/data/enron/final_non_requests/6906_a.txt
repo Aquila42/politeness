@@ -1,0 +1,11 @@
+NAME	TITLE	DOH	BADGE	HR REP	SUPERVISOR	CO/RC
+Soto, Elizabeth	Clerk	6/1	yes	N.Villarreal	Susan Harrison	5-413
+02331-000
+Jacobs, Charles	Spec	6/5	yes	H.
+McLoughlin	Bryce Baxter	5-413
+00758-000
+Ellis,Laurie	Spec	6/5	yes	H.
+McLoughlin	Bryce Baxter	5-413
+00758-000
+Johnson, Luchas	Sr.   Spec	6/5		N.Villarreal	Carrie Hollomon
+

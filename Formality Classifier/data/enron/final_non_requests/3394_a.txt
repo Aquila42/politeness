@@ -1,0 +1,59 @@
+PG&E has taken the position in the issues matrix from the June 13 meeting
+that the proposal made by PowerSpring, of using actual consumption of
+end-use customers with AMR devices installed for measuring their compliance
+with OFO/EFOs, is not part of the Gas OII Settlement.  PG&E expressed no
+opinion on the merits of PowerSpring's proposal, but said it could be raised
+in the OFO forum.  PowerSpring explained why we believe this issue is within
+the scope of the Gas OII Settlement in our prior comments.
+PowerSpring continues to believe that its proposal is within the scope of
+the current settlement discussions and does not withdraw it from
+consideration.  In light of PG&E's position, however, PowerSpring intends to
+pursue its proposal in the OFO forum and others until it is adopted on
+satisfactory terms.
+
+Tod Bradley
+PowerSpring, Inc.
+tod_bradley@powerspring.com
+
+[Original Comment filed June 9, 2000]
+1. RULE 14-CAPACITY ALLOCATION AND CONSTRAINT OF NATURAL GAS SERVICE
+
+PowerSpring, Inc. previously submitted proposed changes to Rule 14, Sections
+E, F and G to allow use of actual usage data from AMR devices for Core
+Procurement Groups to determine compliance with and noncompliance charges
+for OFO/EFOs and Involuntary Diversions.  See Section 2 of comments
+submitted May 22, 2000.  PG&E responded in # 31 of the Resolution Matrix
+that the Settlement "does not contemplate development of meter, AMR, and
+meter data handling."  Two parts of the Settlement Agreement do, at least
+implicitly, contemplate usage of actual data in the ways PowerSpring
+proposes.
+Section 2.9.1 states the Commission's belief that customers' access to real
+time data regarding their gas consumption will "increase efficiency" and
+provide "competitive tools," and may help them "better manage their pipeline
+flows."  The Commission also considers the "most promising option" is for
+UDCs to make the equipment, technology and training necessary for timely
+customer access to current consumption information available to customers.
+The Meter Add-On Pilot Program agreed to in Section 2.10.5 is one
+implementation of these Commission policies, but customer access to real
+time consumption information provided by Add-On devices has little value
+unless the customers and PG&E actually use it when it is most needed, such
+as during OFO/EFOs.  Thus, the Meter Add-On Pilot and the Commission's
+policies, at least implicitly, contemplate that the real time data will be
+not only made available, but will actually be used to enable customers to
+better manage and balance their gas supplies and consumption, particularly
+during critical times of system stress such as OFO/EFOs.  PowerSpring's
+proposals are a specific way in which those objectives stated in the
+Settlement Agreement can be met.
+In addition, Section 2.10.5.6 of the Settlement Agreement provides for an
+assessment of the Meter Add-On Pilot Program prior to its completion.  That
+assessment will miss a prime opportunity to evaluate how well customers are
+able to make use of real time data, and how the program should be modified
+to enable them to make better use of the data, if they are not allowed to
+actually use it during the Pilot.  One of the most significant assessments
+will be how well customers use the data during critical periods, such as
+OFO/EFOs.  Thus, the assessment element  in  Section 2.10.5.6 of the
+Settlement Agreement also contemplates develop and use of real time data
+from Add-On devices in the manner PowerSpring proposes.
+PowerSpring, requests PG&E to reconsider its response in # 31 of the
+Resolution Matrix.
+

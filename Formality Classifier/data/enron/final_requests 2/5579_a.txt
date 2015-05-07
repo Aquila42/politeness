@@ -1,0 +1,19 @@
+Should the entire volume be moved over to ICC now?  Currently on deal 131478
+(ICC), 10,000 is being sold at 2.84.  The sale on the TXU ticket has been
+zeroed out on the deal line, but needs to be reallocated in Vol Mgmt.  If I
+need to move the additional 25,000 to ICC, I will.  But, I want to make sure
+that is what we need to do.
+
+D
+
+Julie Meyers
+01/11/2000 10:23 AM
+To: Daren J Farmer/HOU/ECT@ECT
+cc: Tina Valadez/HOU/ECT@ECT
+Subject: Re: ICC Energy - OPLC Meter 981527
+
+Could you please setup a spot deal for October under ICC Energy Corp.  I
+would just copy the TXU deal below.  I believe the pricing is the same.
+
+Julie
+

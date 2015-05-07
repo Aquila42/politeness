@@ -1,0 +1,9 @@
+Please be informed that you  have one or more SRRS requests that are
+outstanding due to a pending action to approve or reject decision on your
+part. Please  go to the SRRS (Lotus Notes desktop icon) and select the
+"Requests Awaiting my Approval" option and complete the necessary  action.
+More SRRS request information can be seen within the request by clicking on
+"Resource Display".
+Your response will enable the SRRS process to continue for eventual closure.
+
+

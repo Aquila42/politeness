@@ -1,0 +1,9 @@
+
+Michele, 
+Under the Accounting Procedures section, the second bullet states: "Northern will account for any costs of third party transportation service through general ledger Account 858 - Transmission and Compression of Gas by Others".  I propose that NNG use Account 859 - Other (Transmission) Expense rather than Account 858 for these third party transportation service costs.  
+The Code of Regs states for Acct 858, "This account shall include amounts paid to others for the transmission and compression of gas of the utility."  However, it is specifically stated in the second paragraph of your Offsystem Capacity procedures, "Northern will not hold title to any natural gas stored or transported on a third party facility."  Thus, the use of Account 858 contradicts NNG's intent of not taking possession of the gas.  
+Also, the use of Account 859  for transportation service costs would be very consistent with the use of Account 824 for storage service costs.  The Code of Regs description of the types of expenses to be included in each account is almost identical with the exception of the words "storage" and "transmission system", to wit,
+"824 - Other expenses:  This account shall include the cost of labor, material used and expenses incurred in operating underground storage plant, and other underground storage operating expenses, not includible in any of the foregoing accounts, including research, development, and demonstration expenses."
+"859 - Other expenses:  This account shall include the cost of labor, material used and expenses incurred in operating transmission system equipment and other transmission system expenses not includible in any of the foregoing accounts, including research, development, and demonstration expenses."
+pmb
+

@@ -1,0 +1,16 @@
+As we discussed, the following is proposed disclosure language regarding
+direct access:
+
+EnronOnline will provide users, upon request, with "T1" lines or other means
+of direct access to EnronOnline, as an alternative to internet access,
+provided that the users will be responsible for all costs associated with the
+establishment of direct access.  Direct access connections might enable users
+to access EnronOnline more quickly than is currently possible through
+internet access.
+
+In terms of placement, I think this disclosure could initially be included on
+the "ticker", as we discussed.  However, once users begin to establish direct
+connections, it should probably be included as well in the "Legal and
+Privacy" notices or in the ETA.  We should discuss after you have had a
+chance to consider the language.  Thanks.
+

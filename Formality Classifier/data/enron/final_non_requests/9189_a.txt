@@ -1,0 +1,21 @@
+Sara, I see no particular issues as to the enforceability in Sweden of
+arbitration under a deemed ISDA.  Incidentally, Sweden has, without
+reservations, signed and ratified the 1958 New York Convention (on the
+Recognition and Enforcement of Foreign Arbitral Awards) and arbitration has
+also long been used in Sweden and is generally the preferred method of
+settling disputes at the international level.
+The rights of appeal against arbitral awards are limited in Sweden.  Swedish
+law sets out three (exhaustive) grounds for the per se invalidity of an
+arbitral award (wholly or partly):
+the award determines an issue which is non-arbitable;
+the award, or the manner in which the award arose, violates Swedish public
+policy; or
+the award is not in writing or signed by the arbitrators.
+In addition, an arbitral award is challenable under Swedish law where certain
+procedural irregularities have occurred, such violation of due process,
+relief in excess of claim, invalidity of the arbitration agreement, lack of
+legal competence of arbitrators, etc.
+I hope that the foregoing will give you the requisite guidance.  Please
+contact me if you require any further info.
+
+

@@ -1,0 +1,7 @@
+We are currently experiencing performance problems with the Performance
+Management website.  This is due to the number of concurrent users accessing
+the application.  Technology is working on a solution to the problems and
+will keep you posted as the problems are remedied.
+
+Thank you for your patience.
+

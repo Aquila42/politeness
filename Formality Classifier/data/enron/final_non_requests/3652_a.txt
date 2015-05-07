@@ -1,0 +1,10 @@
+Both the swap and termination confirms look fine to me.  The only question I
+would have for you in on the swap confirm.  On page 6, there is a transfer
+provision at the bottom of the page.  I don't know what the transfer
+provision in Section 7 of the Master Agreement is, but I just want to be sure
+that this does not allow them to freely transfer their obligations under the
+agreement to a non-affiliate.  I know that the trade has been terminated, but
+I just don't want any bad precedents being set.  This language may be just
+fine; I just wanted to be sure.  Otherwise, it looks good to me.
+CF
+

@@ -1,0 +1,12 @@
+Sitara # 157288
+
+Could you pls. have the rate for the following point adjusted?
+
+The following point should be adjusted to reflect a price of $2.52, per the
+contract.
+
+Pipe: PGEV
+Point:  (CARTHAGE/PGEV )
+Sitara/ Unify Rate: $2.53 (HSC, IDX - .05)
+Contract Rate: $2.52 (HSC, IDX - .06)
+

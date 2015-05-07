@@ -1,0 +1,26 @@
+The Weather desk will be offering a Power Financial Product. Besides the fact
+that this Power Product will be managed by the Weather Desk, it is different
+in that it more closely mirrors a Weather transaction, as Weather trading
+will be adjusting the 'Strike Prices' (as opposed to the proces) for these
+power transactions through the Bid and Offer. The Pay Unit is set at 10/MW
+and the Floating Price will equal PJM Demand prices on the PJMs official
+website. The Payment Amount will equal the product of the Notional and the
+ABS of Floating Price - Strike Price.
+
+Please see the Product Long Description attached.
+
+Matt - I need a Sigma Factor
+
+Currency: USD
+Country: US
+Commodity: Weather/Power Demand
+UoM:  MWh
+
+Initally, this Product will only be traded internally. It will not be booked
+into Enpower, and since it is traded book-to-book it will not be Confirmed.
+
+
+
+Dale
+3-9746
+

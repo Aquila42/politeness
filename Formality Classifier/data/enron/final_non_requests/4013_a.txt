@@ -1,0 +1,38 @@
+The original message was received at Mon, 21 Aug 2000 16:19:10 -0500 (CDT)
+from ecthou_gt2.corp.enron.com [172.16.4.33]
+----- The following addresses had permanent fatal errors -----
+<michael.mulligan@americas.bnparibas.com>
+----- Transcript of session follows -----
+451 <michael.mulligan@americas.bnparibas.com>... americas.bnparibas.com: Name
+server timeout
+Message could not be delivered for 5 days
+Message will be deleted from queue
+
+----- Original message follows -----
+
+Return-Path: <Tana.Jones@enron.com>
+Received: from notes.ect.enron.com (ecthou_gt2.corp.enron.com [172.16.4.33])
+by dserv1.ect.enron.com (8.8.8/8.8.8) with SMTP id QAA08512
+for <michael.mulligan@americas.bnparibas.com>; Mon, 21 Aug 2000 16:19:10
+-0500 (CDT)
+Received: by notes.ect.enron.com(Lotus SMTP MTA v4.6.5  (863.2 5-20-1999))
+id 86256942.00751A1E ; Mon, 21 Aug 2000 16:19:03 -0500
+X-Lotus-FromDomain: ECT
+Return-Receipt-To: Tana.Jones@enron.com
+From: "Tana Jones" <Tana.Jones@enron.com>
+To: michael.mulligan@americas.bnparibas.com
+Message-ID: <86256942.00751830.00@notes.ect.enron.com>
+Date: Mon, 21 Aug 2000 16:19:00 -0500
+Subject: Weather Derivative Templates
+Mime-Version: 1.0
+Content-type: multipart/mixed;
+Boundary="0__=CH57xqQq8184PKVh90YoFfpUjFIT3AEHYP12kNOsvMcdEop6K5WxcQJh"
+Content-Disposition: inline
+
+--0__=CH57xqQq8184PKVh90YoFfpUjFIT3AEHYP12kNOsvMcdEop6K5WxcQJh
+Content-type: text/plain; charset=us-ascii
+Content-Disposition: inline
+
+
+
+

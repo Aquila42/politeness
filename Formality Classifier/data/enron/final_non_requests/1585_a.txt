@@ -1,0 +1,37 @@
+Sarah,
+The Generation Interconnection Agreement will have to be modified to
+accommodate the Net Metering law (R.C.W. Chapter 80.60) that was passed
+here
+in Washington in 1998.  The law covers generators of 25 kW or less that
+are
+powered by solar, wind, hydro or fuel cells.  Washington distribution
+utilities are required to install two-way meters for all customers with
+such
+facilities and to credit those customers for any power produced in
+excess of
+the customer's needs.  We are required to accept all qualified net
+metering
+customers until the total generating capacity of the net metered systems
+reaches 0.1 percent of our 1996 peak load.
+
+Because these generators are tiny and, even in the aggregate, are
+unlikely
+to have any appreciable effect on the operation of the grid, I think the
+easiest approach would be simply to write an exemption into the GIA for
+such
+net metered generators.
+
+I don't know whether any of the other RTO-West states have net metering
+laws.  However, net metering has been kicked around quite a bit in
+connection with federal restructuring legislation.  Hence, we need to
+keep
+an eye developments in DC in this regard.
+Eric Christensen
+Associate General Counsel
+Snohomish County PUD No. 1
+(425) 783-8649
+Toll free from WA: (877) 783-1000 x8649
+Office fax: (425) 783-8305
+Direct fax: (425) 267-6071
+elchristensen@snopud.com <mailto:elchristensen@snopud.com>
+

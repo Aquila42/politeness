@@ -1,0 +1,7 @@
+The latest version, for delivery to the CP.
+
+Sorry for the delay Ed, I have been in a Y2K Counterparty Readiness
+Assessment Meeting since 1:30 pm.
+
+Sara, the only change was to add the spread on the Fallback Reference Price.
+

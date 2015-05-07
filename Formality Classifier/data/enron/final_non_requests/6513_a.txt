@@ -1,0 +1,58 @@
+Hi Mark, I have not met you yet but heard a lot of good things about you.  I
+would like to discuss with you and possibly with John Bloomer and Richard
+Reichardt about the EBS Research's role in supporting the Storage market
+development from the origination and trading perspective.  There are several
+people in various groups that are talking about storage but here is what's my
+take on our involvement--please correct me or suggest otherwise.
+
+Shalesh Ganjoo is our lead analyst on this effort.  In addition to his effort
+with your group, he is presently supporting Jean Mrha with pricing and
+standardization for a traded storage maret--Stinson Gibner is directly
+supervising him in this effort.
+
+Shalesh came to us through referal from David Cox--David discovered him at
+one of his speaking engagements.  Shalesh had talked to David about traded
+storage market development some time last October and David refered Shalesh
+to Enron Research group. We hired Shalesh for general analyst position and
+now he is pulled into all aspect of this storage effort.  Currently, he is
+our point person (with Stinson or I supervising his effort) who is supporting
+Jean Mrha and you on the subject.  Kara Knop has aproached Shalesh with
+request for some support and Shalesh and she are sorting out each other,s
+role in this regard.  As per my discussion today with David, we need to
+coordinate this storage effort from the perspective of modeling market
+assessment etc. For this I suggest Shalesh and his effort so that all parties
+involved can benefit from collective effort within one central source.  Based
+on David's and my assessment of Shalesh's capabilities, I would like to
+suggest that the commercial heads use Shalesh for his creative thinking,
+understanding of the market and analytical capabilities and not just for data
+gathering and simple research effort. We can add other staff as we see the
+need and as you request them.
+
+Please respond this e-mail with your comments if this sounds like aplan, so
+that we can support this effort efficiently and in a scalable manner.
+
+Kind Regards,
+
+Ravi.
+
+
+A bit about EBS Research Group
+
+John Bloomer and Richard Reichardt have met me and are aware of my role and
+Stinston Gibner's role in EBS. I lead a team of quantitative professionals
+via a group we are calling EBS Research.  This group reports to Stinson
+Gibner (VP) and Vince Kaminski (MD and Head of Enron Research).  Stinson and
+Vince are the original founders of Enron Corp Research that has been charged
+with model development efforts to support Enron Energy trading and other
+Enron business.  Enron Research is involved in all aspects of Enron buinesses
+(EES, International, Corporate affairs such as FAS 133 and other accounting
+and new product (derivatives) development, etc.).
+
+Within EBS Research, there serveral professionals supporting Kevin Howard
+(CFO office), John Griebling, Tom Gros and Jean Mrha, David Cox (via Boris),
+and the War room.  Our main area of focus is with Jean Mrha (trading) and
+John Griebling (optical network design and optimization, etc.).  We play a
+key role with John Griebling's go forward network design and implementation
+through our responsiblity to provide traffic engineering analysis and
+modeling effort.
+

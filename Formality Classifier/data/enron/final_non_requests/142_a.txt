@@ -1,0 +1,28 @@
+Shijie,
+
+My apologies for the delay. As you know we have hit some turbulence here at Enron
+and I was quite busy.
+
+Tjhe title of the talk:
+
+
+Measurement of  Volatility in the Energy Markets:
+
+1. Importance  of volatiltity in financial enegineering
+a. option pricing
+b. risk manaegemnt
+c. legacy software systems
+
+2. Is volatiltity the right tool for energy markets
+
+3. The dyanmics of ewnergy prices in the US markets: a few stylized facts
+
+4. Alternative theretical tools to represent price dynamics: the importnace
+of dialogue betwee academcs and practitioners
+
+
+Also, casn you give me some indication of the timing
+of different meetings.
+
+Vince
+

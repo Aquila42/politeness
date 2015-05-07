@@ -1,0 +1,17 @@
+I may not understand the question, but Legal does not need to be informed of
+each ETA that is executed.
+
+Karen Lambert
+11/19/99 03:06 PM
+To: Stacy E Dickson/HOU/ECT@ECT, Mark Taylor/HOU/ECT@ECT
+cc: Connie Sutton/HOU/ECT@ECT, Mary Solmonson/HOU/ECT@ECT, Bob
+Shults/HOU/ECT@ECT, Dale Neuner/HOU/ECT@ECT
+Subject: EOL Contractual Relationships
+
+Please confirm whether legal does or does not require Global to track
+contractual relationships with counterparties where an Electronic Trading
+Agreement exists but there are no Online GTC's.
+
+Thank you,
+Karen
+

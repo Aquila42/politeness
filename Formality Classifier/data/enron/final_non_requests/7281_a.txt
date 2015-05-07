@@ -1,0 +1,27 @@
+Pulp Swap
+
+FOEX PIX-BHKP
+FOEX PIX-NBSKP
+Pulpex
+WPM NBSK
+
+Pulp Phy  Fwd
+
+OMLX
+
+US Lumber Swap
+
+ESPF Bos 2x4 RL
+OSB 7/16" NC
+
+US Paper Swap
+
+PPW 26#Semi Avg
+PPW 42# KL Avg
+PT 35# SCA
+PT 50# Offset
+PT Newsprint
+PT No 5 34#
+WRPM OCC #11
+WRPM OldNewsPap
+

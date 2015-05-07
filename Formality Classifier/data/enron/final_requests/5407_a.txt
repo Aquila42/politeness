@@ -1,0 +1,52 @@
+Please find the summary of today's activity on EnronOnline.  The full
+Management Report is attached below this executive summary
+
+External Trading ) December 28, 1999
+December 28 To Date
+
+N.A. Gas
+Number of Transactions 208 4,409
+Volume of Transactions (mmbtu,s) 54,886,005 877,084,085
+Gross Notional Value $ 46,187,736 977,617,051
+
+U.S. Power
+Number of Transactions 13 136
+Volume of Transactions (MWh,s) 68,934 1,556,468
+Gross Notional Value $ 1,620,265 44,512,405
+
+U.S. Coal
+Number of Transactions - 16
+Volume of Transactions (MWh,s) - 471,750
+Gross Notional Value $ - 5,936,175
+
+Norwegian Power
+Number of Transactions - 4
+Volume of Transactions (MWh,s) - 62,300
+Gross Notional Value $ - 949,811
+
+U.S. Pulp & Paper
+Number of Transactions - 3
+Volume of Transactions (MWh,s) - 1,800
+Gross Notional Value $ - 1,107,000
+
+Total
+Number of Transactions 221 4,568
+Gross Notional Value $ 47,808,001 1,030,122,442
+
+Revenue from Physical N.A. Gas flows to date ($)  74,109,316
+
+
+Number of New Counterparties transacting today 2
+Number of Counterparties having transacted to date 94
+
+Number of Users Logging onto EnronOnline:
+External Users with Execution rights 216
+External Users with No Execution Rights 115
+
+
+
+
+Regards
+
+Louise
+

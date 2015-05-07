@@ -1,0 +1,14 @@
+--- Automatic Notification System ( Request #: LMAA-4EER34 )
+
+The installation of the equipment (see below) has been completed.
+
+TP 600 366 LAPTOP
+TP600 64 MEG MEM
+TP600 AC ADPT
+TP600 BATTERY
+TP600 BATTERY CHARGER
+TP600 CARD ENABLER
+TP600 ETHERNET
+TP600 SELECTABASE
+UNIVERSAL NTBK CASE
+

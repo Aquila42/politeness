@@ -1,0 +1,6 @@
+I decreased volumes at Carthage due to a fire at the East Texas Plant.  Also,
+the co-owner volumes provided were given to me as gross volumes and should
+have been net (after PVR).  I have made changes to reflect the lower volumes.
+The total volume change is approx 5500 (net). Total Carthage decreases from
+90565 to 85148 (net).
+
